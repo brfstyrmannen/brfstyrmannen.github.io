@@ -3,138 +3,141 @@ title: Stadgar
 layout: home
 ---
 
-Stadgar
-Riksbyggen Bostadsrättsförening
-Rb Brf Styrmannen
+Stadgar  
+Riksbyggen Bostadsrättsförening  
+Rb Brf Styrmannen  
 
-Registrerades hos Bolagsverket 2024-07-29 11:55 [R327625/24]
-Organisationsnummer: 385000-3539
+Registrerades hos Bolagsverket 2024-07-29 11:55 [R327625/24]  
+Organisationsnummer: 385000-3539  
 
-Innehåll
+Innehåll  
 
-Föreningen
-§ 1	Namn, ändamål och säte
-§ 2	Upplåtelsens omfattning med mera
-§ 3	Definitioner
-Medlemskap
-§ 4	Föreningens medlemmar
-§ 5	Allmänna bestämmelser om medlemskap
-§ 6	Rätt till medlemskap vid övergång av bostadsrätt
-Upplåtelse och övergång av bostadsrätt
-§ 7	Upplåtelseavtal
-§ 8	Förhandsavtal
-§ 9	Överlåtelseavtal
-§ 10	Ogiltighet vid vägrat medlemskap
-§ 11	Särskilda regler vid övergång av bostadsrätt
-§ 12	Betalningsansvar efter övergång av bostadsrätt
-§ 13	Åtgärder i lägenheten som vidtagits av tidigare innehavare
-§ 14	Avsägelse av bostadsrätt
-§ 15	Hävning av upplåtelseavtalet
-Avgifter till föreningen
-§ 16	Allmänt om avgifter till föreningen
-§ 17	Årsavgift och andelstal
-§ 18	Överlåtelseavgift, pantsättningsavgift och avgift vid upplåtelse i andra hand
-§ 19	Ränta och inkassoavgift vid försenad betalning
-§ 20	Övriga avgifter
-§ 21	Föreningens legala panträtt
-Användning av lägenheten
-§ 22	Avsett ändamål
-§ 23	Sundhet, ordning och skick
-§ 24	Upplåtelse av lägenheten i andra hand
-§ 25	Inneboende
-Underhåll av lägenheten
-§ 26	Allmänt om bostadsrättshavarens ansvar
-§ 27	Balkong, altan, takterrass, uteplats
-§ 28	Våtutrymmen och kök
-§ 29	Föreningens ansvar
-§ 30	Reparationer på grund av brand- eller vattenledningsskada
-§ 31	Bostadsrättshavarens skyldighet att anmäla brister
-§ 32	Föreningen får utföra underhållsåtgärd som bostadsrättshavaren svarar för
-§ 33	Ersättning för inträffad skada
-§ 34	Avhjälpande av brist på bostadsrättshavarens bekostnad
-§ 35	Föreningens rätt till tillträde till lägenhet
-§ 36	Ändring av lägenhet
-Underhåll av fastigheten och underhållsfonder
-§ 37	Underhållsplan för föreningens fastighet med byggnader
-§ 38	Fonder för underhåll
-Förverkande av nyttjanderätten till lägenheten
-§ 39	Förverkandegrunder
-§ 40	Hinder för förverkande
-§ 41	Möjlighet att vidta rättelse med mera
-§ 42	Återvinning vid försenad årsavgiftsbetalning eller avgift för andrahandsupplåtelse
-§ 43	Skyldighet att avflytta
-§ 44	Rätt till ersättning för skada vid uppsägning
-§ 45	Förfarandet vid uppsägning
-§ 46	Tvångsförsäljning
-Styrelse och valberedning
-§ 47	Allmänt
-§ 48	Ledamöter och suppleanter
-§ 49	Ordförande, sekreterare med flera
-§ 50	Sammanträden
-§ 51	Styrelsens beslutsförhet
-§ 52	Protokoll
-§ 53	Vissa beslut
-§ 54	Firmateckning
-§ 55	Besiktningar
-§ 56	Likhetsprincipen
-§ 57	Valberedning
-Föreningsstämma
-§ 58	När stämma ska hållas
-§ 59	Dagordning
-§ 60	Kallelse
-§ 61	Motioner
-§ 62	Rösträtt, ombud och biträde
-§ 63	Beslut och omröstning
-§ 64	Särskilda villkor för vissa beslut
-§ 65	Ändring av stadgarna
-Årsredovisning, räkenskaper och revision
-§ 66	Räkenskapsår
-§ 67	Årsredovisning och fördelning av överskott
-§ 68	Revisorer
-§ 69	Revisorernas granskning
-§ 70	Årsredovisningen och revisorernas berättelse
-Övrigt
-§ 71	Medlemskap i Riksbyggen intresseförening
-§ 72	Meddelanden till medlemmarna
-§ 73	Fördelning av tillgångar om föreningen upplöses
-§ 74	Annan lagstiftning
-Bestämmelser med grå markering i vänsterkanten baseras på lagtext och kan som huvudregel inte ändras.
-Föreningen
-§ 1 Namn, ändamål och säte
-Föreningens namn är Riksbyggen Bostadsrättsförening [Text].
-Föreningen har till ändamål att främja medlemmarnas ekonomiska intressen genom att i föreningens hus, mot ersättning, till föreningens medlemmar upplåta bostadslä­genheter för permanent boende, och i förekommande fall lokaler, till nyttjande utan begränsning i tiden.
-Föreningen ska i sin verksamhet främja de kooperativa principerna såsom de kommer till uttryck i dessa stadgar och verka för en socialt, ekonomiskt och miljömässigt hållbar utveckling.
-Föreningens styrelse ska ha sitt säte i [Text] kommun.
-§ 2 Upplåtelsens omfattning med mera
-Upplåtelse och utövande av bostadsrätt sker på de villkor som anges i upplåtelseavtalet, föreningens ekono­miska plan, dessa stadgar och bostadsrättslagen.
-En upplåtelse av bostadsrätt får endast avse hus eller del av hus. En upp­låtelse får dock även omfatta mark som ligger i anslutning till fö­reningens hus, om marken ska an­vändas som komplement till nyttjandet av huset eller del av huset.
-§ 3 Definitioner 
-Med bostadsrätt avses den rätt i föreningen som en medlem har till följd av upplåtel­sen.
-En lägenhet kan vara en bostadslägenhet eller en lokal. Med bostadslägenhet avses en lägenhet som helt eller inte till oväsentlig del är avsedd att användas som bostad. Med lokal avses annan lägenhet än bostadslägenhet. Till lägenhet kan höra mark. 
-Medlem som innehar bostadsrätt kallas bostadsrättshavare.
-Medlemskap
-§ 1 Föreningens medlemmar
-Medlemskap kan beviljas 
-    a) fysisk eller juridisk person som kommer att erhålla bostadsrätt i föreningen till följd av upplåtelse från föreningen eller som övertar bostadsrätt i föreningens hus, 
-    b) Riksbyggen ekonomisk förening, nedan ”Riksbyggen”.
-§ 2 Allmänna bestämmelser om medlemskap
-Fråga om att anta medlem i föreningen avgörs av styrelsen med iakttagande av be­stämmel­serna i dessa stadgar och i bostadsrättslagen.
-Styrelsen är skyldig att utan dröjsmål, dock senast inom en (1) månad från det att skriftlig och fullständig ansökan om medlemskap kom in till föreningen, avgöra frågan om medlem­skap.
-Medlemskap får inte vägras på grund av kön, könsöverskridande identitet eller uttryck, etnisk tillhörighet, religion eller annan trosuppfattning, funktionsnedsättning, sexuell läggning eller ålder.
-Annan juridisk person än kommun eller region som förvärvat bostadsrätt till bo­stadslä­genhet får vägras medlemskap.
-Medlem som upphör att vara bostadsrättshavare ska anses ha utträtt ur föreningen.
-§ 3 Rätt till medlemskap vid övergång av bostadsrätt
-Den till vilken en bostadsrätt övergått får inte vägras inträde i föreningen om de vill­kor för medlem­skap som anges i dessa stadgar är uppfyllda och föreningen skäligen bör godta ho­nom eller henne som bostads­rättshavare. 
-Vid förvärv av bostadslägenhet får medlemskap endast beviljas den som permanent ska bosätta sig i lägenheten. Vid andelsförvärv, där bostadsrätten efter förvärvet innehas av förälder/föräldrar och barn, äger dock styrelsen rätt att bevilja undantag från bosättningskravet och bevilja medlemskap åt förvärvare som inte avser att permanent bosätta sig i lägenheten förutsatt att någon av andelsägarna avser att göra så. Se dock följande stycke angående styrelsens rätt att neka medlemskap vid andelsförvärv. 
-Den som förvärvat andel i bostadsrätt får vägras medlemskap. Om bostadsrätten efter förvärvet innehas av makar, eller om bostadsrätten avser en bostadslägenhet, sådana sambor på vilka sambolagen (2003:376) är tillämplig, gäller dock vad som anges i 2 kap. 3 och 5 §§ bostadsrättslagen. 
-Om en bostadsrätt har övergått till bostadsrättshavarens make får ma­ken inte vägras inträde i föreningen. Ej heller får medlemskap vägras när bostadsrätt till en bostadslä­genhet övergått till annan närstående person som varaktigt sammanbodde med bo­stadsrättshavaren vid övergången.
-Upplåtelse och övergång av bostadsrätt
-§ 1 Upplåtelseavtal
-Upplåtelse av en lägenhet med bostadsrätt ska ske skriftligen och undertecknas av parterna. I upplåtelsehandlingen ska parternas namn anges liksom den lägenhet med eventuell mark och andra utrymmen som upplåtelsen avser samt de belopp som ska betalas i insats, årsavgift och i förekommande fall upplåtelseav­gift.
-§ 2 Förhandsavtal
-Föreningen får i enlighet med bestämmelserna i 5 kap. bostadsrättslagen ingå avtal om att i framtiden upplåta lägenhet med bostadsrätt. Ett sådant avtal kallas för­handsavtal.
-§ 3 Överlåtelseavtal
-Ett avtal om överlåtelse av en bostadsrätt genom köp ska upprättas skriftligen och skrivas under av säljare och köpare. Köpehandlingen ska innehålla uppgift om den lägenhet som överlåtelsen avser samt om priset. Motsvarande gäller i tillämpliga delar vid byte eller gåva.
+Föreningen  
+§ 1	Namn, ändamål och säte  
+§ 2	Upplåtelsens omfattning med mera  
+§ 3	Definitioner  
+Medlemskap  
+§ 4	Föreningens medlemmar  
+§ 5	Allmänna bestämmelser om medlemskap  
+§ 6	Rätt till medlemskap vid övergång av bostadsrätt  
+Upplåtelse och övergång av bostadsrätt  
+§ 7	Upplåtelseavtal  
+§ 8	Förhandsavtal  
+§ 9	Överlåtelseavtal  
+§ 10	Ogiltighet vid vägrat medlemskap  
+§ 11	Särskilda regler vid övergång av bostadsrätt  
+§ 12	Betalningsansvar efter övergång av bostadsrätt  
+§ 13	Åtgärder i lägenheten som vidtagits av tidigare innehavare  
+§ 14	Avsägelse av bostadsrätt  
+§ 15	Hävning av upplåtelseavtalet  
+Avgifter till föreningen  
+§ 16	Allmänt om avgifter till föreningen  
+§ 17	Årsavgift och andelstal  
+§ 18	Överlåtelseavgift, pantsättningsavgift och avgift vid upplåtelse i andra hand  
+§ 19	Ränta och inkassoavgift vid försenad betalning  
+§ 20	Övriga avgifter  
+§ 21	Föreningens legala panträtt  
+Användning av lägenheten  
+§ 22	Avsett ändamål  
+§ 23	Sundhet, ordning och skick  
+§ 24	Upplåtelse av lägenheten i andra hand  
+§ 25	Inneboende  
+Underhåll av lägenheten  
+§ 26	Allmänt om bostadsrättshavarens ansvar  
+§ 27	Balkong, altan, takterrass, uteplats  
+§ 28	Våtutrymmen och kök  
+§ 29	Föreningens ansvar  
+§ 30	Reparationer på grund av brand- eller vattenledningsskada  
+§ 31	Bostadsrättshavarens skyldighet att anmäla brister  
+§ 32	Föreningen får utföra underhållsåtgärd som bostadsrättshavaren svarar för  
+§ 33	Ersättning för inträffad skada  
+§ 34	Avhjälpande av brist på bostadsrättshavarens bekostnad  
+§ 35	Föreningens rätt till tillträde till lägenhet  
+§ 36	Ändring av lägenhet  
+Underhåll av fastigheten och underhållsfonder  
+§ 37	Underhållsplan för föreningens fastighet med byggnader  
+§ 38	Fonder för underhåll  
+Förverkande av nyttjanderätten till lägenheten  
+§ 39	Förverkandegrunder  
+§ 40	Hinder för förverkande  
+§ 41	Möjlighet att vidta rättelse med mera  
+§ 42	Återvinning vid försenad årsavgiftsbetalning eller avgift för andrahandsupplåtelse  
+§ 43	Skyldighet att avflytta  
+§ 44	Rätt till ersättning för skada vid uppsägning  
+§ 45	Förfarandet vid uppsägning  
+§ 46	Tvångsförsäljning  
+Styrelse och valberedning  
+§ 47	Allmänt  
+§ 48	Ledamöter och suppleanter  
+§ 49	Ordförande, sekreterare med flera  
+§ 50	Sammanträden  
+§ 51	Styrelsens beslutsförhet  
+§ 52	Protokoll  
+§ 53	Vissa beslut  
+§ 54	Firmateckning  
+§ 55	Besiktningar  
+§ 56	Likhetsprincipen  
+§ 57	Valberedning  
+Föreningsstämma  
+§ 58	När stämma ska hållas  
+§ 59	Dagordning  
+§ 60	Kallelse  
+§ 61	Motioner  
+§ 62	Rösträtt, ombud och biträde  
+§ 63	Beslut och omröstning  
+§ 64	Särskilda villkor för vissa beslut  
+§ 65	Ändring av stadgarna  
+Årsredovisning, räkenskaper och revision  
+§ 66	Räkenskapsår  
+§ 67	Årsredovisning och fördelning av överskott  
+§ 68	Revisorer  
+§ 69	Revisorernas granskning  
+§ 70	Årsredovisningen och revisorernas berättelse  
+Övrigt  
+§ 71	Medlemskap i Riksbyggen intresseförening  
+§ 72	Meddelanden till medlemmarna  
+§ 73	Fördelning av tillgångar om föreningen upplöses  
+§ 74	Annan lagstiftning  
+
+Bestämmelser med grå markering i vänsterkanten baseras på lagtext och kan som huvudregel inte ändras.  
+
+Föreningen  
+§ 1 Namn, ändamål och säte  
+Föreningens namn är Riksbyggen Bostadsrättsförening Styrmannen.  
+Föreningen har till ändamål att främja medlemmarnas ekonomiska intressen genom att i föreningens hus, mot ersättning, till föreningens medlemmar upplåta bostadslä­genheter för permanent boende, och i förekommande fall lokaler, till nyttjande utan begränsning i tiden.  
+Föreningen ska i sin verksamhet främja de kooperativa principerna såsom de kommer till uttryck i dessa stadgar och verka för en socialt, ekonomiskt och miljömässigt hållbar utveckling.  
+Föreningens styrelse ska ha sitt säte i Gävle kommun.  
+
+§ 2 Upplåtelsens omfattning med mera  
+Upplåtelse och utövande av bostadsrätt sker på de villkor som anges i upplåtelseavtalet, föreningens ekono­miska plan, dessa stadgar och bostadsrättslagen.  
+En upplåtelse av bostadsrätt får endast avse hus eller del av hus. En upp­låtelse får dock även omfatta mark som ligger i anslutning till fö­reningens hus, om marken ska an­vändas som komplement till nyttjandet av huset eller del av huset.  
+§ 3 Definitioner  
+Med bostadsrätt avses den rätt i föreningen som en medlem har till följd av upplåtel­sen.  
+En lägenhet kan vara en bostadslägenhet eller en lokal. Med bostadslägenhet avses en lägenhet som helt eller inte till oväsentlig del är avsedd att användas som bostad. Med lokal avses annan lägenhet än bostadslägenhet. Till lägenhet kan höra mark.  
+Medlem som innehar bostadsrätt kallas bostadsrättshavare.  
+Medlemskap  
+§ 1 Föreningens medlemmar  
+Medlemskap kan beviljas  
+    a) fysisk eller juridisk person som kommer att erhålla bostadsrätt i föreningen till följd av upplåtelse från föreningen eller som övertar bostadsrätt i föreningens hus,  
+    b) Riksbyggen ekonomisk förening, nedan ”Riksbyggen”.  
+§ 2 Allmänna bestämmelser om medlemskap  
+Fråga om att anta medlem i föreningen avgörs av styrelsen med iakttagande av be­stämmel­serna i dessa stadgar och i bostadsrättslagen.  
+Styrelsen är skyldig att utan dröjsmål, dock senast inom en (1) månad från det att skriftlig och fullständig ansökan om medlemskap kom in till föreningen, avgöra frågan om medlem­skap.  
+Medlemskap får inte vägras på grund av kön, könsöverskridande identitet eller uttryck, etnisk tillhörighet, religion eller annan trosuppfattning, funktionsnedsättning, sexuell läggning eller ålder.  
+Annan juridisk person än kommun eller region som förvärvat bostadsrätt till bo­stadslä­genhet får vägras medlemskap.  
+Medlem som upphör att vara bostadsrättshavare ska anses ha utträtt ur föreningen.  
+§ 3 Rätt till medlemskap vid övergång av bostadsrätt  
+Den till vilken en bostadsrätt övergått får inte vägras inträde i föreningen om de vill­kor för medlem­skap som anges i dessa stadgar är uppfyllda och föreningen skäligen bör godta ho­nom eller henne som bostads­rättshavare.  
+Vid förvärv av bostadslägenhet får medlemskap endast beviljas den som permanent ska bosätta sig i lägenheten. Vid andelsförvärv, där bostadsrätten efter förvärvet innehas av förälder/föräldrar och barn, äger dock styrelsen rätt att bevilja undantag från bosättningskravet och bevilja medlemskap åt förvärvare som inte avser att permanent bosätta sig i lägenheten förutsatt att någon av andelsägarna avser att göra så. Se dock följande stycke angående styrelsens rätt att neka medlemskap vid andelsförvärv.  
+Den som förvärvat andel i bostadsrätt får vägras medlemskap. Om bostadsrätten efter förvärvet innehas av makar, eller om bostadsrätten avser en bostadslägenhet, sådana sambor på vilka sambolagen (2003:376) är tillämplig, gäller dock vad som anges i 2 kap. 3 och 5 §§ bostadsrättslagen.  
+Om en bostadsrätt har övergått till bostadsrättshavarens make får ma­ken inte vägras inträde i föreningen. Ej heller får medlemskap vägras när bostadsrätt till en bostadslä­genhet övergått till annan närstående person som varaktigt sammanbodde med bo­stadsrättshavaren vid övergången.  
+Upplåtelse och övergång av bostadsrätt  
+§ 1 Upplåtelseavtal  
+Upplåtelse av en lägenhet med bostadsrätt ska ske skriftligen och undertecknas av parterna. I upplåtelsehandlingen ska parternas namn anges liksom den lägenhet med eventuell mark och andra utrymmen som upplåtelsen avser samt de belopp som ska betalas i insats, årsavgift och i förekommande fall upplåtelseav­gift.  
+§ 2 Förhandsavtal  
+Föreningen får i enlighet med bestämmelserna i 5 kap. bostadsrättslagen ingå avtal om att i framtiden upplåta lägenhet med bostadsrätt. Ett sådant avtal kallas för­handsavtal.  
+§ 3 Överlåtelseavtal  
+Ett avtal om överlåtelse av en bostadsrätt genom köp ska upprättas skriftligen och skrivas under av säljare och köpare. Köpehandlingen ska innehålla uppgift om den lägenhet som överlåtelsen avser samt om priset. Motsvarande gäller i tillämpliga delar vid byte eller gåva.  
 En överlåtelse som inte uppfyller ovan är ogiltig. Väcks inte talan om överlåtel­sens ogil­tighet inom två år från den dag då överlåtelsen skedde, är rätten till sådan talan förlorad. 
 Om säljaren och köparen vid sidan av köpehandlingen kommit överens om ett annat pris än det som anges i köpehandlingen, är den överenskommelsen ogiltig. Mellan säljaren och köparen gäller i stället det pris som anges i köpehandlingen. Priset får dock jämkas, om det är oskäligt att det ska vara bin­dande. Vid denna bedömning ska hänsyn tas till köpe­handlingens innehåll, omständigheterna vid avtalets till­komst, senare inträffade förhållan­den och omständigheterna i övrigt.
 § 4 Ogiltighet vid vägrat medlemskap
