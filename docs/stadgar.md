@@ -10,8 +10,8 @@ Organisationsnummer: 385000-3539
 Innehåll  
 
 Föreningen  
-§ 1	Namn, ändamål och säte
-§ 2	Upplåtelsens omfattning med mera
+[§ 1	Namn, ändamål och säte](#-1-namn-ändamål-och-säte)
+[§ 2	Upplåtelsens omfattning med mera](#-2-upplåtelsens-omfattning-med-mera)
 § 3	Definitioner
 
 Medlemskap
@@ -116,7 +116,7 @@ Föreningen har till ändamål att främja medlemmarnas ekonomiska intressen gen
 Föreningen ska i sin verksamhet främja de kooperativa principerna såsom de kommer till uttryck i dessa stadgar och verka för en socialt, ekonomiskt och miljömässigt hållbar utveckling.  
 Föreningens styrelse ska ha sitt säte i Gävle kommun.  
   
-§ 2 Upplåtelsens omfattning med mera  
+### § 2 Upplåtelsens omfattning med mera  
 Upplåtelse och utövande av bostadsrätt sker på de villkor som anges i upplåtelseavtalet, föreningens ekono­miska plan, dessa stadgar och bostadsrättslagen.  
 En upplåtelse av bostadsrätt får endast avse hus eller del av hus. En upp­låtelse får dock även omfatta mark som ligger i anslutning till fö­reningens hus, om marken ska an­vändas som komplement till nyttjandet av huset eller del av huset.  
   
