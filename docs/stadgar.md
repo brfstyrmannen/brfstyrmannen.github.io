@@ -14,7 +14,7 @@ Föreningen
 [§ 2	Upplåtelsens omfattning med mera](#-2-upplåtelsens-omfattning-med-mera)  
 [§ 3	Definitioner](#-3-definitioner)
 
-Medlemskap
+Medlemskap  
 [§ 4	Föreningens medlemmar](#-4-föreningens-medlemmar)  
 [§ 5	Allmänna bestämmelser om medlemskap](#-5-allmänna-bestämmelser-om-medlemskap)  
 [§ 6	Rätt till medlemskap vid övergång av bostadsrätt](#-6-rätt-till-medlemskap-vid-övergång-av-bostadsrätt)  
