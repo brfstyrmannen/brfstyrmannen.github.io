@@ -1,5 +1,6 @@
 ---
 title: Stadgar
+parent: Regler
 layout: home
 ---
 
