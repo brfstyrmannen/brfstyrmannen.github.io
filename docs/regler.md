@@ -1,4 +1,0 @@
----
-title: Regler
-layout: home
----
