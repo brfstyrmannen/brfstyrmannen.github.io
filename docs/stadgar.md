@@ -10,17 +10,17 @@ Organisationsnummer: 385000-3539
 
 Innehåll  
 
-Föreningen  
+[Föreningen](#föreningen)  
 [§ 1	Namn, ändamål och säte](#-1-namn-ändamål-och-säte)  
 [§ 2	Upplåtelsens omfattning med mera](#-2-upplåtelsens-omfattning-med-mera)  
 [§ 3	Definitioner](#-3-definitioner)
 
-Medlemskap  
+[Medlemskap](#medlemskap)  
 [§ 4	Föreningens medlemmar](#-4-föreningens-medlemmar)  
 [§ 5	Allmänna bestämmelser om medlemskap](#-5-allmänna-bestämmelser-om-medlemskap)  
 [§ 6	Rätt till medlemskap vid övergång av bostadsrätt](#-6-rätt-till-medlemskap-vid-övergång-av-bostadsrätt)  
   
-Upplåtelse och övergång av bostadsrätt  
+[Upplåtelse och övergång av bostadsrätt](#upplåtelse-och-övergång-av-bostadsrätt)  
 [§ 7	Upplåtelseavtal](#-7-upplåtelseavtal)  
 [§ 8	Förhandsavtal](#-8-förhandsavtal)  
 [§ 9	Överlåtelseavtal](#-9-överlåtelseavtal)  
@@ -31,7 +31,7 @@ Upplåtelse och övergång av bostadsrätt
 [§ 14	Avsägelse av bostadsrätt](#-14-avsägelse-av-bostadsrätt)  
 [§ 15	Hävning av upplåtelseavtalet](#-15-hävning-av-upplåtelseavtalet)  
   
-Avgifter till föreningen  
+[Avgifter till föreningen](#avgifter-till-föreningen)  
 [§ 16	Allmänt om avgifter till föreningen](#-16-allmänt-om-avgifter-till-föreningen)  
 [§ 17	Årsavgift och andelstal](#-17-årsavgift-och-andelstal)  
 [§ 18	Överlåtelseavgift, pantsättningsavgift och avgift vid upplåtelse i andra hand](#-18-överlåtelseavgift-pantsättningsavgift-och-avgift-vid-upplåtelse-i-andra-hand)  
@@ -39,13 +39,13 @@ Avgifter till föreningen
 [§ 20	Övriga avgifter](#-20-övriga-avgifter)  
 [§ 21	Föreningens legala panträtt](#-21-föreningens-legala-panträtt)  
   
-Användning av lägenheten  
+[Användning av lägenheten](#användning-av-lägenheten)  
 [§ 22	Avsett ändamål](#-22-avsett-ändamål)  
 [§ 23	Sundhet, ordning och skick](#-23-sundhet-ordning-och-skick)  
 [§ 24	Upplåtelse av lägenheten i andra hand](#-24-upplåtelse-av-lägenheten-i-andra-hand)  
 [§ 25	Inneboende](#-25-inneboende)  
   
-Underhåll av lägenheten  
+[Underhåll av lägenheten](#underhåll-av-lägenheten)  
 [§ 26	Allmänt om bostadsrättshavarens ansvar](#-26-allmänt-om-bostadsrättshavarens-ansvar)  
 [§ 27	Balkong, altan, takterrass, uteplats](#-27-balkong-altan-takterrass-uteplats)  
 [§ 28	Våtutrymmen och kök](#-28-våtutrymmen-och-kök)  
@@ -58,11 +58,11 @@ Underhåll av lägenheten
 [§ 35	Föreningens rätt till tillträde till lägenhet](#-35-föreningens-rätt-till-tillträde-till-lägenhet)  
 [§ 36	Ändring av lägenhet](#-36-ändring-av-lägenhet)  
   
-Underhåll av fastigheten och underhållsfonder  
+[Underhåll av fastigheten och underhållsfonder](#underhåll-av-fastigheten-och-underhållsfonder)  
 [§ 37	Underhållsplan för föreningens fastighet med byggnader](#-37-underhållsplan-för-föreningens-fastighet-med-byggnader)  
 [§ 38	Fonder för underhåll](#-38-fonder-för-underhåll)  
   
-Förverkande av nyttjanderätten till lägenheten  
+[Förverkande av nyttjanderätten till lägenheten](#förverkande-av-nyttjanderätten-till-lägenheten)  
 [§ 39	Förverkandegrunder](#-39-förverkandegrunder)  
 [§ 40	Hinder för förverkande](#-40-hinder-för-förverkande)  
 [§ 41	Möjlighet att vidta rättelse med mera](#-41-möjlighet-att-vidta-rättelse-med-mera)  
@@ -72,7 +72,7 @@ Förverkande av nyttjanderätten till lägenheten
 [§ 45	Förfarandet vid uppsägning](#-45-förfarandet-vid-uppsägning)  
 [§ 46	Tvångsförsäljning](#-46-tvångsförsäljning)  
   
-Styrelse och valberedning  
+[Styrelse och valberedning](#styrelse-och-valberedning)  
 [§ 47	Allmänt](#-47-allmänt)  
 [§ 48	Ledamöter och suppleanter](#-48-ledamöter-och-suppleanter)  
 [§ 49	Ordförande, sekreterare med flera](#-49-ordförande-sekreterare-med-flera)  
@@ -85,7 +85,7 @@ Styrelse och valberedning
 [§ 56	Likhetsprincipen](#-56-likhetsprincipen)  
 [§ 57	Valberedning](#-57-valberedning)  
   
-Föreningsstämma  
+[Föreningsstämma](#föreningsstämma)  
 [§ 58	När stämma ska hållas](#-58-när-stämma-ska-hållas)  
 [§ 59	Dagordning](#-59-dagordning)  
 [§ 60	Kallelse](#-60-kallelse)  
@@ -95,14 +95,14 @@ Föreningsstämma
 [§ 64	Särskilda villkor för vissa beslut](#-64-särskilda-villkor-för-vissa-beslut)  
 [§ 65	Ändring av stadgarna](#-65-ändring-av-stadgarna)  
   
-Årsredovisning, räkenskaper och revision  
+[Årsredovisning, räkenskaper och revision](#årsredovisning-räkenskaper-och-revision)  
 [§ 66	Räkenskapsår](#-66-räkenskapsår)  
 [§ 67	Årsredovisning och fördelning av överskott](#-67-årsredovisning-och-fördelning-av-överskott)  
 [§ 68	Revisorer](#-68-revisorer)  
 [§ 69	Revisorernas granskning](#-69-revisorernas-granskning)  
 [§ 70	Årsredovisningen och revisorernas berättelse](#-70-årsredovisningen-och-revisorernas-berättelse)  
   
-Övrigt  
+[Övrigt](#övrigt)  
 [§ 71	Medlemskap i Riksbyggen intresseförening](#-71-medlemskap-i-riksbyggen-intresseförening)  
 [§ 72	Meddelanden till medlemmarna](#-72-meddelanden-till-medlemmarna)  
 [§ 73	Fördelning av tillgångar om föreningen upplöses](#-73-fördelning-av-tillgångar-om-föreningen-upplöses)  
