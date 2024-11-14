@@ -10,9 +10,9 @@ Organisationsnummer: 385000-3539
 Innehåll  
 
 Föreningen  
-[§ 1	Namn, ändamål och säte](#-1-namn-ändamål-och-säte)
-[§ 2	Upplåtelsens omfattning med mera](#-2-upplåtelsens-omfattning-med-mera)
-§ 3	Definitioner
+[§ 1	Namn, ändamål och säte](#-1-namn-ändamål-och-säte)  
+[§ 2	Upplåtelsens omfattning med mera](#-2-upplåtelsens-omfattning-med-mera)  
+§ 3	Definitioner  
 
 Medlemskap
 § 4	Föreningens medlemmar
