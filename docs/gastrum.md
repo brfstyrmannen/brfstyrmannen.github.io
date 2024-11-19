@@ -12,7 +12,7 @@ Gästrummet ligger på bottenvåningen på hus 8.
 
 Rummet har plats för 1-2 personer. I rummet finns en dubbelsäng och TV.
 
-Rummet får disponeras från klockan 12.00 på ankomstdagen till 11.59 på avresedagen. När du hyrt rummet öppnar du den med en nyckel som du får från vicevärden.
+Rummet får disponeras från klockan 12.00 på ankomstdagen till 11.59 på avresedagen. När du hyrt rummet öppnar du den med nyckel som du får från vicevärden.
 
 Den som hyr rummet behöver ta med sig egna sängkläder och handdukar. Kuddar och täcken finns men det finns inga lakan, örngott och påslakan.
 
