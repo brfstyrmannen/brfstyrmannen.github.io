@@ -19,13 +19,13 @@ Uppvärmning: Fjärrvärme
 Ventilation: Centralt, fläktstyrt till/frånluftssystem  
 Fönster: 3-glas  
 Underhåll:  
-2023-2024: Loftgångar  
-2022: Passersystem entréer (porttelefoner/taggar)  
-2021: Grundvattenpumpar  
-2020: Hissar  
-2018-2019: Relining  
-2017: Markytor  
-2016: Huskropp  
+    2023-2024: Loftgångar  
+    2022: Passersystem entréer (porttelefoner/taggar)  
+    2021: Grundvattenpumpar  
+    2020: Hissar  
+    2018-2019: Relining  
+    2017: Markytor  
+    2016: Huskropp  
 Antal lägenheter: 148 st  
 Lägenhetsfördelning: 38 lgh om 1 rok, 82 lgh om 2 rok, 26 lgh om 3 rok  
 Antal hyreslokaler: 2 st  
