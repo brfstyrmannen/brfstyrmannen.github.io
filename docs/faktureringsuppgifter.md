@@ -6,7 +6,7 @@ layout: home
 
 # Faktureringsuppgifter
 
-Har du en faktura till föreningen? Här nedan hittar du våra fakturerings-uppgifter. Skicka gärna fakturan (i PDF format) digitalt till info@brfstyrmannen.se .  
+Har du en faktura till föreningen? Här nedan hittar du våra fakturerings-uppgifter. Skicka gärna fakturan (i PDF format) digitalt till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se).  
 
 **Faktureringsadress:**
 

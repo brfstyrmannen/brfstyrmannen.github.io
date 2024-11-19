@@ -28,6 +28,6 @@ På kvällar och helger anmäls akuta fel på tel: [026 – 320 44](tel:026–32
 
 ## Övrigt
 
-Du kan göra felanmälan till styrelsen genom att skicka ett mejl till info@brfstyrmannen.se. Eller kontakta vicevärden.
+Du kan göra felanmälan till styrelsen genom att skicka ett mejl till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se). Eller kontakta vicevärden.
 
 Det finns också möjlighet att kontakta styrelsen via lapp i röda brevlådan i hus 10. Observera att svaret kan dröja längre tid vid denna kontaktväg än vid direkt mejl/telefon.

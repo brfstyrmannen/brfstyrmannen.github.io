@@ -9,7 +9,7 @@ Här hittar du diverse kontaktvägar.
 
 ## Styrelsen
 
-Om du har frågor och/eller synpunkter till styrelsen kan du skicka det som epost till info@brfstyrmannen.se. Du kan också lämna en lapp i röda postlådan i hus 10.
+Om du har frågor och/eller synpunkter till styrelsen kan du skicka det som epost till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se). Du kan också lämna en lapp i röda postlådan i hus 10.
 
 ## Vicevärd
 

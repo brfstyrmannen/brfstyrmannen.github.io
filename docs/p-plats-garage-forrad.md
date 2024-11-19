@@ -8,7 +8,7 @@ layout: home
 
 Som medlem i föreningen kan du hyra parkeringsplats, garage och extra förråd.
 
-För att ställa dig i kö till parkeringsplats, garage eller förråd skickar du ett mail till info@brfstyrmannen.se, alternativt lägger du en lapp i föreningens brevlåda i hus nr 10.
+För att ställa dig i kö till parkeringsplats, garage eller förråd skickar du ett mail till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se), alternativt lägger du en lapp i föreningens brevlåda i hus nr 10.
 
 De aktuella kö-listorna hittar du på ”Mitt Riksbyggen” under ”Styrelsen informerar”. Pga GDPR kan vi inte publicera dem direkt på hemsidan. Gå till https://mitt.riksbyggen.se/boende/min-forening/styrelsen-informerar/?contentId=75148 (kräver inloggning med Mobilt Bank-ID).
 

@@ -16,7 +16,7 @@ I samband med att den tidigare innehavaren flyttade ut blev lägenheten besiktig
 
 Som bostadsrättshavare ansvarar du för att underhålla din bostad. Du kan göra mindre ändringar som t.ex. målning och tapetsering utan att kontakta styrelsen, men för vissa typer av renoveringar måste du ha styrelsens tillstånd innan du påbörjar renoveringen. Detta står i 7 kap. 7 § bostadsrättslagen och föreningens stadgar.  
 
-Om du planerar en renovering skicka e-post till info@brfstyrmannen.se eller lämna en lapp i röda postlådan på Styrmansgatan 10 (du kommer in med din tagg). Du beskriver däri vad du ska göra, bifoga gärna ritningar.  
+Om du planerar en renovering skicka e-post till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se) eller lämna en lapp i röda postlådan på Styrmansgatan 10 (du kommer in med din tagg). Du beskriver däri vad du ska göra, bifoga gärna ritningar.  
 
 Tänk på att vara ute i god tid!  
 
@@ -48,19 +48,19 @@ Om TV och bredband redan är aktiverat på din lägenhet kan du ringa Telia på 
 
 ## Auto-giro
 
-Om du vill betala månadsavin med autogiro har Riksbyggen information om det här (https://www.riksbyggen.se/kundtjanst/autogiro/). Betalningsmottagare du fyller upp i internetbanken är Riksbyggen Brf Styrmannen.
+Om du vill betala månadsavin med autogiro har Riksbyggen information om det här [https://www.riksbyggen.se/kundtjanst/autogiro/](https://www.riksbyggen.se/kundtjanst/autogiro/). Betalningsmottagare du fyller upp i internetbanken är Riksbyggen Brf Styrmannen.
 
 ## Parkering
 
-För att söka parkerings-plats kontakta kö-ansvarig på info@brfstyrmannen.se. Ange om du söker garage och/eller p-plats och om du behöver/önskar elstolpe.
+För att söka parkerings-plats kontakta kö-ansvarig på [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se). Ange om du söker garage och/eller p-plats och om du behöver/önskar elstolpe.
 
 ## Förråd
 
-Till varje lägenhet hör ett förråd. Behöver du mer utrymme kan du ställa dig i kö till ett extra förråd. Kontakta kö-ansvarig på info@brfstyrmannen.se.
+Till varje lägenhet hör ett förråd. Behöver du mer utrymme kan du ställa dig i kö till ett extra förråd. Kontakta kö-ansvarig på [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se).
 
 ## Felanmälan
 
-Kontakta vicevärden 0761-18 23 18 eller skicka e-post till info@brfstyrmannen.se.
+Kontakta vicevärden 0761-18 23 18 eller skicka e-post till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se).
 
 ## Städdag
 
@@ -68,7 +68,7 @@ Föreningen anordnar en städdag på våren. Då samlas vi för att städa och r
 
 ## Hemförsäkring
 
-Givetvis ska du ha en egen hemförsäkring. Föreningen har tecknat gemensamt bostadsrättstillägg för alla medlemmar. Föreningen har försäkring hos Folksam som också har ett erbjudande för våra medlemmar (https://www.folksam.se/forbund/riksbyggen).
+Givetvis ska du ha en egen hemförsäkring. Föreningen har tecknat gemensamt bostadsrättstillägg för alla medlemmar. Föreningen har försäkring hos Folksam som också har ett erbjudande för våra medlemmar [https://www.folksam.se/forbund/riksbyggen](https://www.folksam.se/forbund/riksbyggen).
 
 ## Namnskylt
 
@@ -88,7 +88,7 @@ Alla som bor i föreningen ska följa föreningens stadagar (https://www.brfstyr
 
 ## Mer information
 
-Klicka gärna runt på hemsidan, vi hoppas att du hittar svar på de flesta av dina frågor här. Om inte skicka e-post till info@brfstyrmannen.se.
+Klicka gärna runt på hemsidan, vi hoppas att du hittar svar på de flesta av dina frågor här. Om inte skicka e-post till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se).
 
 Till sist vill vi än en gång önska dig varmt välkommen i vår förening och hoppas att du kommer att trivas tillsammans med oss!
 

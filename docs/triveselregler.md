@@ -153,7 +153,7 @@ Egen affischering i entré skall ske på befintlig plåttavla. Rensa efter två 
 ## Kontakt med styrelsen
 
 Använd med fördel den röda postlådan i entrén i hus nr 10. Lämna skriftligt meddelande i ärende som du vill uppmärksamma styrelsen på. Det kan vara frågor och förslag mm. Anonyma skrivelser behandlas inte av styrelsen.
-E-postadress: info@brfstyrmannen.se  
+E-postadress: [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se) 
 
 ## Kundwebben
 
@@ -165,8 +165,8 @@ Vid varje försäljning kommer föreningen att göra en besiktning av lägenhete
 
 ## Vart ringer jag
 
-Felanmälan: Vicevärd (0761-18 23 18)  
-Kö för parkering/förråd: info@brfstyrmannen.se  
-Låsöppning: Securitas (010-470 53 00)  
-Störningsjour: Securitas (010-470 53 00)  
-Ohyra: Anticimex (026-12 80 00)  
+Felanmälan: [Vicevärd (0761-18 23 18)](tel:0761-182318)  
+Kö för parkering/förråd: [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se)  
+Låsöppning: [Securitas (010-470 53 00)](tel:010-4705300)  
+Störningsjour: [Securitas (010-470 53 00)](tel:010-4705300)  
+Ohyra: [Anticimex (026-12 80 00)](tel:026-128000)  
