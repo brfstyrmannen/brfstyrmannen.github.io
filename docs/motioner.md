@@ -1,6 +1,6 @@
 ---
 title: Motioner
-parent: Förvaltning
+parent: Styrelsen & stämman
 layout: home
 ---
 

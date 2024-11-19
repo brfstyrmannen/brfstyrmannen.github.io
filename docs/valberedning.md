@@ -1,6 +1,6 @@
 ---
 title: Valberedning
-parent: Förvaltning
+parent: Styrelsen & stämman
 layout: home
 ---
 

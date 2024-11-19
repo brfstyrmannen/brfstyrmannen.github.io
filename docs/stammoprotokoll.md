@@ -1,6 +1,6 @@
 ---
 title: Stämmoprotokoll
-parent: Förvaltning
+parent: Styrelsen & stämman
 layout: home
 ---
 

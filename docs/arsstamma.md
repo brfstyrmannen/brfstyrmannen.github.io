@@ -1,6 +1,6 @@
 ---
 title: Årsstämma
-parent: Förvaltning
+parent: Styrelsen & stämman
 layout: home
 ---
 

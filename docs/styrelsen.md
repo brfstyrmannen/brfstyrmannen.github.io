@@ -1,6 +1,6 @@
 ---
 title: Styrelsen
-parent: Förvaltning
+parent: Styrelsen & stämman
 layout: home
 ---
 
