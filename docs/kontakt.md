@@ -13,12 +13,12 @@ Om du har frågor och/eller synpunkter till styrelsen kan du skicka det som epos
 
 ## Vicevärd
 
-Föreningen har en vice-värd du når på 0761-18 23 18.
+Föreningen har en vice-värd du når på [0761-18 23 18](tel:0761-182318).
 
 ## Husvärd
 
-Varje hus har en husvärd som hälsar nya medlemmar välkomna. Är du nyinflyttad och vill få en guidad rundtur ta kontakt med din husvärd.  
+Varje hus har en husvärd som hälsar nya medlemmar välkomna. Är du nyinflyttad och vill få en guidad rundtur ta kontakt med din husvärd.
 
-Namn på aktuella husvärdar publiceras på ”Mitt Riksbyggen” under ”Styrelsen informerar”. Pga GDPR kan vi inte publicera listan direkt på hemsidan. Gå till https://mitt.riksbyggen.se/boende/min-forening/styrelsen-informerar/?contentId=75159 (kräver Mobilt Bank-ID)  
+Namn på aktuella husvärdar publiceras på ”Mitt Riksbyggen” under ”Styrelsen informerar”. Pga GDPR kan vi inte publicera listan direkt på hemsidan. Gå till [Mitt Riksbyggen > Min förening > Styrelsen informerar](https://mitt.riksbyggen.se/boende/min-forening/styrelsen-informerar/?contentId=75159) _(Bank-ID)_
 
-Saknar du Mobilt Bank-ID? Lämna en lapp i röda lådan i hus 10 så lägger vi en lapp med kontaktuppgifter i din postlåda.  
+Saknar du Mobilt Bank-ID? Lämna en lapp i röda lådan i hus 10 så lägger vi en lapp med kontaktuppgifter i din postlåda.

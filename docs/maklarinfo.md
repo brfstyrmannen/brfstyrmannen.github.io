@@ -19,7 +19,7 @@ Uppvärmning: Fjärrvärme
 Ventilation: Centralt, fläktstyrt till/frånluftssystem  
 Fönster: 3-glas  
 Underhåll:  
-    2023-2024: Loftgångar  
+&nbsp;&nbsp;&nbsp;&nbsp;2023-2024: Loftgångar  
     2022: Passersystem entréer (porttelefoner/taggar)  
     2021: Grundvattenpumpar  
     2020: Hissar  
