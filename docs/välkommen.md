@@ -1,6 +1,6 @@
 ---
 title: Välkommen
-parent: Ny i föreningen
+parent: Nya medlemmar
 layout: home
 ---
 
