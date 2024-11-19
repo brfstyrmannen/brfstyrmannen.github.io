@@ -44,4 +44,4 @@ Eftersom efterfrågan oftast överstiger antalet platser så tillämpas strikta 
 3. Tvätt av motorfordon i garaget är inte tillåtet.
 4. På garageplats där eluttag finns har hyresgästen rätt att ansluta motorvärmare. Inga andra elapparater får anslutas.
 
-*Eventuellt missbruk av reglerna* kan leda till att hyresavtalet sägs upp.
+**Eventuellt missbruk av reglerna** kan leda till att hyresavtalet sägs upp.
