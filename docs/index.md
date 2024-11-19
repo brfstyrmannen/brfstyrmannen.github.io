@@ -1,5 +1,6 @@
 ---
-title: Home
+title: Hem
+nav_order: 1
 layout: home
 ---
 
