@@ -12,4 +12,4 @@ Notera att det här inte gäller uttag ur inre fonden, för det finns det en ann
 
 Om du saknar skrivare skicka ett mail till [info@brfstyrmannen.se](info@brfstyrmannen.se) med ditt namn och att du vill få ersättning för ett utlägg så ser vi till så att en blank kopia hamnar i din postlåda.
 
-[Ladda ned blanketten här](/assets/utlagg.pdf)
+[Ladda ned blanketten här](/assets/utlagg.pdf){:target="_blank"}
