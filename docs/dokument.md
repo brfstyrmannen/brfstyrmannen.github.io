@@ -1,0 +1,4 @@
+---
+title: Dokument
+layout: home
+---
