@@ -140,7 +140,7 @@ Uthyrning i andra hand kräver styrelsens samtycke. Blankett för ansökan om an
 
 All piskning av mattor skall ske på därför avsedd piskställning.
 
-Det är inte tillåtet att mata fåglar eller andra djur från balkongen. Att kasta ut matrester som brödbitar etc. är inte tillåtet då det kan locka till sig skadedjur.
+Det är inte tillåtet att mata fåglar eller andra djur från balkongen. Att kasta ut matrester som brödbitar etc. är inte tillåtet då det kan locka till sig skadedjur.  
 
 Lägenheten eller övriga utrymmen i föreningen får inte användas för annat ändamål än avsett.
 Inglasning eller annan förändring av balkongen (ex. markis) skall godkännas av styrelsen. Det finns ett bygglov som reglerar vilken typ av inglasning som skall användas.
