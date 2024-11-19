@@ -138,7 +138,7 @@ Uthyrning i andra hand kräver styrelsens samtycke. Blankett för ansökan om an
 
 ## Övrigt
 
-All piskning av mattor skall ske på därför avsedd piskställning.
+All piskning av mattor skall ske på därför avsedd piskställning.  
 
 Det är inte tillåtet att mata fåglar eller andra djur från balkongen. Att kasta ut matrester som brödbitar etc. är inte tillåtet då det kan locka till sig skadedjur.  
 
