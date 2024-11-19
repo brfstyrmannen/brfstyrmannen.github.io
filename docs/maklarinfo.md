@@ -48,7 +48,7 @@ Städning: Städtjänst AB
 Trädgårdsskötsel: ILA Städ & Fastighetsservice AB  
 Styrelsemöten: Ca 1 gång/månad  
 Senaste justering av årsavgift: 1 feburari 2024 med + 3 %  
-Kommande årsavgift bestäms i november i samband med budgetarbetet.  
+Kommande justering av årsavgift: 1 januari 2025 med + 5 %
 
 ## Överlåtelser
 Juridisk person: Vi godtar inte juridisk person som medlem i föreningen.  
