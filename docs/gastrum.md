@@ -18,7 +18,7 @@ Den som hyr rummet behöver ta med sig egna sängkläder och handdukar. Kuddar o
 
 ## Boka gästrummet
 
-Gästrummet kan bokas från informationstavlorna i alla portar eller via internet. När du har bokat rummet behöver du också ringa vicevärden för att få nyckel till rummet.
+Gästrummet kan bokas från informationstavlorna i alla portar eller via internet.
 
 Det finns en toalett i anslutning till rummet. Dusch finns i bastun, som du kan boka separat (bastun har normalt en avgift på 25 kr men den betalar man inte när man använder bastun i samband med en bokning av gästrummet).
 
