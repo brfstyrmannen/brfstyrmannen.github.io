@@ -13,11 +13,11 @@ Alla lägenheter har ett s.k. ReKey-system vilket innebär att man kan beställa
 
 En ny nyckel kostar 291kr + moms (gånger 3 om man ska göra tre nya nycklar vid ex. förlorad/borttappad nyckel) [2023 års priser]. Nycklar beställs hos Lås & Nyckel på Näringen.  
 
-Läs mer om ReKey här (https://static-mpc-spear-production.assaabloy.com/asfe/Fetchfile.aspx?id=45001&dl=1)  
+Läs mer om ReKey här [https://static-mpc-spear-production.assaabloy.com/asfe/Fetchfile.aspx?id=45001&dl=1](https://static-mpc-spear-production.assaabloy.com/asfe/Fetchfile.aspx?id=45001&dl=1)  
 
 ## Vi saknar en tagg eller behöver en ny
 
-Föreningen har avtal med Lås & Nyckel (https://nyckel.nu/kontakta-oss/), de säljer dig en/flera nya taggar och ser till så att gamla taggar inaktiveras.  
+Föreningen har avtal med Lås & Nyckel [https://nyckel.nu/kontakta-oss/](https://nyckel.nu/kontakta-oss/), de säljer dig en/flera nya taggar och ser till så att gamla taggar inaktiveras.  
 
 Vi funderar på att renovera lite hemma, har vi kvar pengar i den inre fonden?  
 
@@ -25,4 +25,4 @@ Om ni har pengar kvar i den inre fonden framgår det på er avgiftsavi. Ni behö
 
 ## Min TV eller bredband fungerar inte
 
-Föreningen har avtal med Telia, e-post och telefonnummer till deras support hittar du på https://www.telia.se/kontakt .  
+Föreningen har avtal med Telia, e-post och telefonnummer till deras support hittar du på [https://www.telia.se/kontakt](https://www.telia.se/kontakt) .  

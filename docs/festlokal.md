@@ -15,3 +15,10 @@ Lokalen består av två delar, med plats för 14 stolar i ena och en 5-sits soff
 Hyran för lokalen är 150 kr per dag. När du hyrt rummet öppnar du med en nyckel som du får från vicevärden. För säkerhets skull skicka ett sms till vicevärden för att bekräfta bokningen, nyckeln får du levererad i din postbox. Lokalen får disponeras från klockan 12.00 till 11.59 dagen därpå. Nyckeln lämnar du sedan i röda postlådan i hus 10.
 
 Kom ihåg att städa lokalen efter er, om där inte är städad tillkommer en avgift för detta. Det skall vara rent och snyggt för nästa besökande.
+
+![festlokal-1](assets/festlokal-1.jpg)
+![festlokal-2](assets/festlokal-2.jpg)
+![festlokal-3](assets/festlokal-3.jpg)
+![festlokal-4](assets/festlokal-4.jpg)
+![festlokal-5](assets/festlokal-5.jpg)
+![festlokal-6](assets/festlokal-6.jpg)

@@ -28,5 +28,8 @@ Rummet får hyras i upp till två veckor. Rummet får hyras flera gånger per å
 
 Hyran för rummet är 100 kr per natt. Kom ihåg att städa rummet efter er, om rummet inte är städad tillkommer en avgift för detta. Det skall vara rent och snyggt för nästa gäst som kommer.
 
+![gastrum-1](assets/gastrum-1.jpg)
+![gastrum-2](assets/gastrum-2.jpg)
+![gastrum-3](assets/gastrum-3.jpg)
 
 

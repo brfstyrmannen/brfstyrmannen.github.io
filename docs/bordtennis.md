@@ -14,5 +14,7 @@ De som nyttjar pingisrummet ansvarar för att det lämnas snyggt efter nyttjande
 
 Och söker du en utmanare skicka e-post till [info@brfstyrmannen.se](info@brfstyrmannen.se).
 
-
+![bordtennis-1](assets/bordtennis-1.jpg)
+![bordtennis-2](assets/bordtennis-2.jpg)
+![bordtennis-3](assets/bordtennis-3.jpg)
 

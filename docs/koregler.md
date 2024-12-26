@@ -30,12 +30,17 @@ Eftersom efterfrågan oftast överstiger antalet platser så tillämpas strikta 
 11. Förändring i hyran ska meddelas hyresgästen skriftligen senast tre månader innan hyresförändringen träder i kraft.
 12. Vid eventuella frågor, skicka ett mejl till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se).
 
+## Regler när man står utan bil
+
+1. Om man saknar tillgång till bil under mer än 6 månader ska avtalet sägas upp. Om man vill ha en ny plats kan man ställa sig i kö, man får stå i kö även om man för tillfället saknar bil.
+2. Förstahandshyresgästen får själv finna intresserad person från kölistan och meddela detta till Styrelsen.
+
 ## Regler för andrahandsuthyrning
 
 1. Uthyrning får endast ske till person som står i kölistan.
 2. Andrahandshyra får inte vara högre än förstahandshyran.
 3. Vid uthyrning mindre än 6 månader får förstahandshyresgästen själv finna intresserad person från kölistan och meddela detta till Styrelsen.
-4. Vid uthyrning 6 månader eller mer ska förmedlingen ske genom Styrelsen. Därefter upprättar förstahandsgästen  ett hyreskontrakt som ska lämnas till och godtas av föreningen.
+4. Vid uthyrning 6 månader eller mer ska förmedlingen ske genom Styrelsen.
 
 ## Ordningsregler för garage
 

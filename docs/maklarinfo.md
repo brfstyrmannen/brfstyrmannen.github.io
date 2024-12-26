@@ -21,7 +21,7 @@ Fönster: 3-glas
 Underhåll:  
 &nbsp;&nbsp;&nbsp;&nbsp;2023-2025: Loftgångar  
 &nbsp;&nbsp;&nbsp;&nbsp;2024: Hiss hus 16  
-&nbsp;&nbsp;&nbsp;&nbsp;2022: Passersystem entréer (porttelefoner/taggar)  
+&nbsp;&nbsp;&nbsp;&nbsp;2022: Passersystem (porttelefoner/taggar)  
 &nbsp;&nbsp;&nbsp;&nbsp;2021: Grundvattenpumpar  
 &nbsp;&nbsp;&nbsp;&nbsp;2020: Hissar  
 &nbsp;&nbsp;&nbsp;&nbsp;2018-2019: Relining  
@@ -40,7 +40,7 @@ Sophantering: Återvinningsrum för matavfall, restavfall, tidningar, förpackni
 Passersystem: Porttelefon/taggar.  
 Städdagar: Föreningen har en gemensam städdag på våren.  
 Ingår i avgiften: Vatten, bostadsrättstillägg.  
-TV/bredband: Obligatorisk avgift på 242 kr/mån för Telia TV-paket Lagom, bredband 1000 Mbit/s.  
+TV/bredband: Obligatorisk avgift på 242 kr/mån för Telia TV-paket Lagom, bredband 1000 Mbit/s. Avgiftsjustering januari 2025 där priset sänks till 229 kr/mån.  
 Brandvarnare: Den boende ansvarar för att den finns och fungerar.  
 El: Föreningen har tecknat avtal som täcker även lägenheter, vilka debiteras efter sin förbrukning. Inget eget elavtal krävs. Pris fr.o.m. 1 september 2024: 2.15 kr/kWh.  
 Bostadsrättstillägg: Behövs inte i hemförsäkringen då detta ingår i föreningens fastighetsförsäkring.  

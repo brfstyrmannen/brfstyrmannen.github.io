@@ -18,7 +18,7 @@ OVK-protokollen är allmän handling och du bör kunna få dem från kommunens s
 Energideklaration rekommenderas var tionde år.
 Energideklaration utfördes senast 2019. Nästa energideklaration planerad för 2029.
 
-Du hittar energideklaration hos Boverket (https://www.boverket.se/sv/energideklaration/sok-energideklaration/).
+Du hittar energideklaration hos Boverket [https://www.boverket.se/sv/energideklaration/sok-energideklaration/](https://www.boverket.se/sv/energideklaration/sok-energideklaration/).
 
 ## SBA – Systematiskt brandskyddsarbete 
 
