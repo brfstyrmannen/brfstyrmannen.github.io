@@ -12,7 +12,7 @@ I rummet finns ett pingis-bord; racket och bollar medtagas av var och en.
 
 De som nyttjar pingisrummet ansvarar för att det lämnas snyggt efter nyttjande. Kom ihåg att stänga eventuella fönster efter er!
 
-![bordtennis-1](assets/bordtennis-1.jpg)
-![bordtennis-2](assets/bordtennis-2.jpg)
-![bordtennis-3](assets/bordtennis-3.jpg)
+![bordtennis-1](assets/bordtennis-1x300.jpg)
+![bordtennis-2](assets/bordtennis-2x300.jpg)
+![bordtennis-3](assets/bordtennis-3x300.jpg)
 

@@ -18,9 +18,9 @@ Vi låser upp lokalen på morgonen och låser dörren dagen efter. För säkerhe
 
 Kom ihåg att städa lokalen efter er, om där inte är städad tillkommer en avgift för detta. Det skall vara rent och snyggt för nästa besökande.
 
-![festlokal-1](assets/festlokal-1.jpg)
-![festlokal-2](assets/festlokal-2.jpg)
-![festlokal-3](assets/festlokal-3.jpg)
-![festlokal-4](assets/festlokal-4.jpg)
-![festlokal-5](assets/festlokal-5.jpg)
-![festlokal-6](assets/festlokal-6.jpg)
+![festlokal-1](assets/festlokal-1x300.jpg)
+![festlokal-2](assets/festlokal-2x300.jpg)
+![festlokal-3](assets/festlokal-3x300.jpg)
+![festlokal-4](assets/festlokal-4x300.jpg)
+![festlokal-5](assets/festlokal-5x300.jpg)
+![festlokal-6](assets/festlokal-6x300.jpg)

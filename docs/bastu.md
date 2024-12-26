@@ -14,7 +14,7 @@ Från och med 2023-12-01 tillkommer en avgift på 25 kr per besök. Kostnaden l�
 
 De som nyttjar bastun ansvarar för att det lämnas snyggt efter nyttjande.
 
-![bastu-1](assets/bastu-1.jpg)
-![bastu-2](assets/bastu-2.jpg)
-![bastu-3](assets/bastu-3.jpg)
-![bastu-4](assets/bastu-4.jpg)
+![bastu-1](assets/bastu-1x300.jpg)
+![bastu-2](assets/bastu-2x300.jpg)
+![bastu-3](assets/bastu-3x300.jpg)
+![bastu-4](assets/bastu-4x300.jpg)
