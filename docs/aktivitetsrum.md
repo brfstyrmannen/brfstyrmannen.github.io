@@ -10,5 +10,5 @@ Det finns ett spartanskt gym/aktivitetsrum på bottenplan i hus 8. Här finns et
 
 Ingen förbokning krävs.
 
-![aktivitetsrum-1](assets/aktivitetsrum-1.jpg){width=5rem}
-![aktivitetsrum-2](assets/aktivitetsrum-2.jpg){width=5rem}
+![aktivitetsrum-1](assets/aktivitetsrum-1x300.jpg)
+![aktivitetsrum-2](assets/aktivitetsrum-2x300.jpg)
