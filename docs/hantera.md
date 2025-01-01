@@ -1,5 +1,6 @@
 ---
 title: Hantera
+parent: Länkar
 layout: home
 ---
 
