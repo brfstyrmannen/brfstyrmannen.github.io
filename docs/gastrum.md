@@ -12,7 +12,7 @@ Gästrummet ligger på bottenvåningen på hus 8.
 
 Rummet har plats för 1-2 personer. I rummet finns en dubbelsäng och TV.
 
-Rummet får disponeras från klockan 12.00 på ankomstdagen till 11.59 på avresedagen. När du hyrt rummet öppnar du den med nyckel som du får från vicevärden.
+Rummet får disponeras från klockan 12.00 på ankomstdagen till 11.59 på avresedagen.
 
 Den som hyr rummet behöver ta med sig egna sängkläder och handdukar. Kuddar och täcken finns men det finns inga lakan, örngott och påslakan.
 
@@ -32,4 +32,14 @@ Hyran för rummet är 100 kr per natt. Kom ihåg att städa rummet efter er, om 
 ![gastrum-2](assets/gastrum-2x300.jpg)
 ![gastrum-3](assets/gastrum-3x300.jpg)
 
+## Checka in
 
+Det sitter en taggläsaren på dörren, du kommer in med din vanliga tagg på de tider du har bokat gästrummet.
+
+## Checka ut
+
+När det är dags att checka ut vill vi att du skickar ett meddelande via sms/mail/telefonsamtal till vicevärden. Då kan någon ur styrelsen gå in i efterhand och kontrollera städningen.
+
+## Betala
+
+Vi lämnar en faktura för ert besök i din postlåda i samband med att du checkar ut. Du kan betala antingen via Swish eller kontant. Vi lämnar ett kvitto via postlådan när vi har registrerat betalningen.
