@@ -1,6 +1,5 @@
 ---
 title: Boka
-parent: Länkar
 layout: home
 ---
 
