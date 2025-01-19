@@ -8,10 +8,6 @@ layout: home
 
 Vi i styrelsen hälsar dig välkommen till Bostadsrättsföreningen Styrmannen och hoppas du kommer att trivas i vår förening. För att underlätta för dig att komma tillrätta i föreningen har vi sammanställt denna information.
 
-## Besiktingsprotokoll
-
-I samband med att den tidigare innehavaren flyttade ut blev lägenheten besiktigad. Det är viktigt att även du inspekterar ditt nya hem och stämmer av det mot besiktningsprotokollet. Notera att protokollet inte ersätter köparens undersökningsplikt.
-
 ## Renovering
 
 Som bostadsrättshavare ansvarar du för att underhålla din bostad. Du kan göra mindre ändringar som t.ex. målning och tapetsering utan att kontakta styrelsen, men för vissa typer av renoveringar måste du ha styrelsens tillstånd innan du påbörjar renoveringen. Detta står i 7 kap. 7 § bostadsrättslagen och föreningens stadgar.  
