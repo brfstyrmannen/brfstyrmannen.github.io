@@ -16,10 +16,10 @@ Här hittar du ritningar från föreningen. Notera att ritningarna är från pro
 
 Här hittar du en översikt av garage-platsernas nummer.
 
-https://drive.google.com/file/d/1ahFI1JlJ9PqUPFVZxtfeEO7tqS9oz0zE/view?usp=sharing
+[Översikt garageplatser](https://drive.google.com/file/d/1ahFI1JlJ9PqUPFVZxtfeEO7tqS9oz0zE/view?usp=sharing)
 
 ## Parkeringsplatser
 
 Här hittar du en översikt av parkerings-platsernas nummer.
 
-https://drive.google.com/file/d/1ldkyUIc6-wQAzunD3PSEA-YXwJM9K9O3/view?usp=sharing
+[Översikt parkering](https://drive.google.com/file/d/1ldkyUIc6-wQAzunD3PSEA-YXwJM9K9O3/view?usp=sharing)
