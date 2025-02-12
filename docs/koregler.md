@@ -4,7 +4,7 @@ parent: Förvaltning
 layout: home
 ---
 
-Följande regler gäller från och med 2024 Q3. Reglerna gäller inte retroaktivt.
+<code style="color : darkorange">Följande regler gäller från och med 2024 Q3. Reglerna gäller inte retroaktivt.</code>
 
 # Kö-regler för parkering och garage
 
