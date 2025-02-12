@@ -4,6 +4,8 @@ parent: Förvaltning
 layout: home
 ---
 
+Följande regler gäller från och med 2024 Q3. Reglerna gäller inte retroaktivt.
+
 # Kö-regler för parkering och garage
 
 Eftersom efterfrågan oftast överstiger antalet platser så tillämpas strikta regler enligt följande
