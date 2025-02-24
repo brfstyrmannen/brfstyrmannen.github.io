@@ -6,7 +6,7 @@ layout: home
 
 # Faktureringsuppgifter
 
-Har du en faktura till föreningen? Här nedan hittar du våra fakturerings-uppgifter. Skicka gärna fakturan (i PDF format) digitalt till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se).  
+Har du en faktura till föreningen? Här nedan hittar du våra fakturerings-uppgifter. Skicka gärna fakturan (i PDF format) digitalt till [riksbyggen.mailinvoice@postenscanning.se](mailto:riksbyggen.mailinvoice@postenscanning.se).  
 
 **Faktureringsadress:**
 
@@ -22,9 +22,6 @@ R 879
 **Momsregistreringsnummer:**
 
 SE785000353901  
-
-**Digitala fakturor:**
-Digitala fakturor i PDF-format skickas till riksbyggen.mailinvoice@postenscanning.se.
 
 **Vår referens:**
 
