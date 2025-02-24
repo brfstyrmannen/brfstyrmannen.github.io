@@ -23,6 +23,9 @@ R 879
 
 SE785000353901  
 
+**Digitala fakturor:**
+Digitala fakturor i PDF-format skickas till riksbyggen.mailinvoice@postenscanning.se.
+
 **Vår referens:**
 
 Ange *alltid* namn på din kontaktperson hos oss så blir det enklare för oss att skicka vidare betalningen i ekonomi-systemet.
