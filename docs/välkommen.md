@@ -26,12 +26,6 @@ Föreningen har ett avtal för att hantera själva utbytet av nycklar och taggar
 
 När Lås & Nyckel meddelar oss att du har varit där ändrar vi namn på postlåda och utanför lägenhetsdörren.
 
-## Husvärd
-
-Varje hus har en husvärd som hälsar nya medlemmar välkomna. Är du nyinflyttad och vill få en guidad rundtur ta kontakt med din husvärd.
-
-Se anslag i porten för att se vem om är just din husvärd.
-
 ## El
 
 Föreningen har tecknat ett gemensamt avtal för alla lägenheter så du behöver inte något eget avtal. Du får betala din egen förbrukning, det kommer på samma avin som månadsavgiften.
