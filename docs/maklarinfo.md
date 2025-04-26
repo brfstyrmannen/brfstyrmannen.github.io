@@ -22,7 +22,7 @@ Underhåll:
 &nbsp;&nbsp;&nbsp;&nbsp;2025: Hiss hus 14  
 &nbsp;&nbsp;&nbsp;&nbsp;2023-2025: Loftgångar  
 &nbsp;&nbsp;&nbsp;&nbsp;2024: Hiss hus 16  
-&nbsp;&nbsp;&nbsp;&nbsp;2022: Passersystem (porttelefoner/taggar)  
+&nbsp;&nbsp;&nbsp;&nbsp;2022: Passersystem  
 &nbsp;&nbsp;&nbsp;&nbsp;2021: Grundvattenpumpar  
 &nbsp;&nbsp;&nbsp;&nbsp;2020: Hissar, Solceller  
 &nbsp;&nbsp;&nbsp;&nbsp;2018-2019: Relining  
