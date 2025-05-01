@@ -1,6 +1,5 @@
 ---
-title: Föreningsstamma 2025
-parent: Nyheter
+title: Föreningsstämma 2025
 layout: home
 ---
 
