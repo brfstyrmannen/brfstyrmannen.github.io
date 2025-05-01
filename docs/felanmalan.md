@@ -22,12 +22,12 @@ Telefon: [020-20 20 70](tel:020-202070) alt [https://www.telia.se/support/felsok
 
 ## Hissar
 
-Hissarna sköts av Nordisk Hiss. Fel på hissar anmäls till vicevärden som ser till att felet åtgärdas.
+Hissarna sköts av Nordisk Hiss. Fel på hissar anmäls till styrelsen som ser till att felet åtgärdas.
 
 På kvällar och helger anmäls akuta fel på tel: [026 – 320 44](tel:026–32044)
 
 ## Övrigt
 
-Du kan göra felanmälan till styrelsen genom att skicka ett mejl till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se). Eller kontakta vicevärden.
+Du kan göra felanmälan till styrelsen genom att ringa/smsa [0761-18 23 18](tel:0761-182318), eller ett mejl till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se). Eller kontakta vicevärden.
 
 Det finns också möjlighet att kontakta styrelsen via lapp i röda brevlådan i hus 10. Observera att svaret kan dröja längre tid vid denna kontaktväg än vid direkt mejl/telefon.
