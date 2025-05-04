@@ -36,8 +36,8 @@ Parkeringsplatser: 57 platser som hyrs för 165-275 kr/mån (den högre avgiften
 Förråd: Varje lägenhet har ett förråd i källaren. Dessutom finns ett antal extraförråd som hyrs ut enligt kölista.  
 Cykelförråd: Finns i källaren, plus två större cykelställ med tak ute.  
 Gemensamma utrymmen: Bastu. Bordtennis. Gym. Festlokal. Övernattningsrum. Lekplats.  
-Tvättstugor: En tvättstuga för fintvätt i respektive fastighet. En tvättmaskin för grovtvätt finns i en av tvättstugorna.  
-Sophantering: Återvinningsrum för matavfall, restavfall, tidningar, förpackningar av glas/metall/plast/papper, samt för glödlampor, batterier, och små elavfall. För övrigt avfall hänvisar vi till återvinningscentraler vid Sörby Urfjäll.  
+Tvättstugor: En tvättstuga för fintvätt i respektive fastighet. En tvättmaskin för grovtvätt finns i en av tvättstugorna (hus 14).  
+Sophantering: Återvinningsrum för matavfall, restavfall, tidningar, förpackningar av glas/metall/plast/papper, samt för glödlampor, batterier, och smått elavfall. För övrigt avfall hänvisar vi till återvinningscentraler vid Sörby Urfjäll.  
 Passersystem: Porttelefon/taggar.  
 Städdagar: Föreningen har en gemensam städdag på våren.  
 Ingår i avgiften: Vatten, bostadsrättstillägg.  
@@ -49,8 +49,7 @@ Förvaltning: Teknisk och ekonomisk förvaltning Riksbyggen
 Städning: Städtjänst AB  
 Trädgårdsskötsel: ILA Städ & Fastighetsservice AB  
 Styrelsemöten: Ca 1 gång/månad  
-Senaste justering av årsavgift: 1 feburari 2024 med + 3 %  
-Kommande justering av årsavgift: 1 januari 2025 med + 5 %
+Senaste justering av årsavgift: 1 feb 2024 +3%, 1 jan 2025 +5%  
 
 ## Överlåtelser
 Juridisk person: Vi godtar inte juridisk person som medlem i föreningen.  
