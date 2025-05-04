@@ -32,7 +32,7 @@ Antal lägenheter: 148 st
 Lägenhetsfördelning: 38 lgh om 1 rok, 82 lgh om 2 rok, 26 lgh om 3 rok  
 Antal hyreslokaler: 2 st  
 Garageplatser: 24 platser som hyrs ut för 500 kr/mån enligt kölista.  
-Parkeringsplatser: 57 platser som hyrs för 150-250 kr/mån (den högre avgiften gäller för platser med motorvärmare, debitering av faktisk el-förbrukning tillkommer.). Kölista. Avgiftsjustering sker i april 2025 med +10%.  
+Parkeringsplatser: 57 platser som hyrs för 165-275 kr/mån (den högre avgiften gäller för platser med motorvärmare, debitering av faktisk el-förbrukning tillkommer). Kölista.  
 Förråd: Varje lägenhet har ett förråd i källaren. Dessutom finns ett antal extraförråd som hyrs ut enligt kölista.  
 Cykelförråd: Finns i källaren, plus två större cykelställ med tak ute.  
 Gemensamma utrymmen: Bastu. Bordtennis. Gym. Festlokal. Övernattningsrum. Lekplats.  
