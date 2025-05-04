@@ -41,9 +41,9 @@ Sophantering: Återvinningsrum för matavfall, restavfall, tidningar, förpackni
 Passersystem: Porttelefon/taggar.  
 Städdagar: Föreningen har en gemensam städdag på våren.  
 Ingår i avgiften: Vatten, bostadsrättstillägg.  
-TV/bredband: Obligatorisk avgift på 242 kr/mån för Telia TV-paket Lagom, bredband 1000 Mbit/s. Avgiftsjustering januari 2025 där priset sänks till 229 kr/mån.  
+TV/bredband: Obligatorisk avgift på 229 kr/mån för Telia TV-paket Lagom, bredband 1000 Mbit/s.   
 Brandvarnare: Den boende ansvarar för att den finns och fungerar.  
-El: Föreningen har tecknat avtal som täcker även lägenheter, vilka debiteras efter sin förbrukning. Inget eget elavtal krävs. Pris fr.o.m. 1 september 2024: 2.15 kr/kWh.  
+El: Föreningen har tecknat avtal som täcker även lägenheter, vilka debiteras efter sin förbrukning. Inget eget elavtal krävs. Pris: 2.15 kr/kWh (Gäller 1 sep 2024 - 31 aug 2025)  
 Bostadsrättstillägg: Behövs inte i hemförsäkringen då detta ingår i föreningens fastighetsförsäkring.  
 Förvaltning: Teknisk och ekonomisk förvaltning Riksbyggen  
 Städning: Städtjänst AB  
