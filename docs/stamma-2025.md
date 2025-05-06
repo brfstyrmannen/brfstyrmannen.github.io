@@ -13,6 +13,6 @@ Här finns alla dokument inför föreningsstämman 2025.
 
 [Fullmakt](assets/fullmakt.pdf)
 
-## Information som visa(t)s på digitala skärmarna
+## Information som publicerats via de digitala skärmarna
 
 [Årsredovisning 2024, information](https://docs.google.com/document/d/1ao6x7jaGYKrB3K5oQQdT4jb6NHGBp-a6gyaL7Ep4m5I/edit?usp=sharing)
