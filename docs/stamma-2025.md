@@ -11,6 +11,8 @@ Här finns alla dokument inför föreningsstämman 2025.
 
 [Årsredovisning](assets/arsredovisning-styrmannen-2024.pdf)
 
+[Revisionsberättelse](assets/revisionsberattelse-styrmannen-2024.pdf)
+
 [Fullmakt](assets/fullmakt.pdf)
 
 ## Information som publicerats via de digitala skärmarna
