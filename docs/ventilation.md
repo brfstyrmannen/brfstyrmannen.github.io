@@ -6,7 +6,7 @@ layout: home
 
 # Ventilation
 
-Husen är utrustade med centralfläkt med utsug på taken. Endast spiskåpa som är ansluten till centralfläkten eller kolfilterfläkt får monteras. Frånluftsfläkt är ej tillåten.
+Husen är utrustade med centralfläkt med utsug på taken. Endast spiskåpa som är ansluten till centralfläkten eller kolfilterfläkt som inte är kopplad direkt till ventilationsröret får monteras. Frånluftsfläkt är ej tillåten.
 
 Springventilerna ovanför fönstren ska vara öppna för att ventilationen och spiskåpan ska fungera optimalt.
 
