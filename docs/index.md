@@ -4,9 +4,6 @@ nav_order: 1
 layout: home
 ---
 
-Är du här inför Föreningsstämman 2025? Du hittar dokumentationen för den här  
-[https://www.brfstyrmannen.se/stamma-2025](https://www.brfstyrmannen.se/stamma-2025.html)
-
 Som boende eller nyinflyttad i Brf Styrmannen kommer du så småningom här hitta allt du behöver veta om ditt boende och om föreningen.
 
 För att anmäla ett fel, se [Felanmälan](/felanmalan).
