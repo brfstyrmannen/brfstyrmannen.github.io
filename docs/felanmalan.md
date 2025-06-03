@@ -7,7 +7,7 @@ layout: home
 
 ## Akuta fel
 
-Vid akuta fastighetsärenden, kontakta vicevärden via telefon [0761 – 18 23 18](tel:0761–182318). Om du inte når vicevärden har vi jour dygnet runt hos Riksbyggen, ring då [0771 – 860 860](tel:0771–860860).
+Vid akuta fastighetsärenden, kontakta styrelsen via telefon [0761 – 18 23 18](tel:0761–182318). Om du inte når styrelsen har föreningen jour dygnet runt hos Riksbyggen, ring då [0771 – 860 860](tel:0771–860860).
 
 Akuta fastighetsärenden är t ex:  
 
@@ -28,6 +28,6 @@ På kvällar och helger anmäls akuta fel på tel: [026 – 320 44](tel:026–32
 
 ## Övrigt
 
-Du kan göra felanmälan till styrelsen genom att ringa/smsa [0761-18 23 18](tel:0761-182318), eller ett mejl till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se). Eller kontakta vicevärden.
+Du kan göra felanmälan till styrelsen genom att ringa/smsa [0761-18 23 18](tel:0761-182318), eller ett mejl till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se).
 
 Det finns också möjlighet att kontakta styrelsen via lapp i röda brevlådan i hus 10. Observera att svaret kan dröja längre tid vid denna kontaktväg än vid direkt mejl/telefon.
