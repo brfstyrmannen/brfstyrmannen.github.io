@@ -38,7 +38,7 @@ Det sitter en taggläsaren på dörren, du kommer in med din vanliga tagg på de
 
 ## Checka ut
 
-När det är dags att checka ut vill vi att du skickar ett meddelande via sms/mail/telefonsamtal till vicevärden. Då kan någon ur styrelsen gå in i efterhand och kontrollera städningen.
+När det är dags att checka ut vill vi att du skickar ett meddelande via sms/mail/telefonsamtal till styrelsen på 0761-18 23 18. Då kan någon ur styrelsen gå in i efterhand och kontrollera städningen.
 
 ## Betala
 
