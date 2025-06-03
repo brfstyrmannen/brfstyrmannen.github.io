@@ -14,7 +14,7 @@ Lokalen består av två delar, med plats för 14 stolar i ena och en 5-sits soff
 
 Hyran för lokalen är 150 kr per dag.
 
-Vi låser upp lokalen på morgonen och låser dörren dagen efter. För säkerhets skull skicka ett sms till vicevärden för att bekräfta bokningen, det skickas ingen push-notis per automatik så det är lätt att det missas. Lokalen får disponeras från klockan 12.00 till 11.59 dagen därpå.
+Det finns en fysisk nyckel till lokalen så du behöver höra av dig någon/-ra dagar i förväg så att du kan få nyckeln. Vi får ingen notifiering per automatik när någon bokar så man får kontakta styrelsen via telefon eller mail. Lokalen får disponeras från klockan 12.00 till 11.59 dagen därpå.
 
 Kom ihåg att städa lokalen efter er, om där inte är städad tillkommer en avgift för detta. Det skall vara rent och snyggt för nästa besökande.
 
