@@ -26,18 +26,18 @@ Vid större fest anslå information på tavla i foajé.
 
 ## Arbeten i lägenhet
 
-Störande arbeten som till exempel borrning får endast ske måndag-fredag mellan 08.00 – 16.00 samt lördagar mellan kl 10.00 – 16.00. Under söndagar är vissa enklare arbeten tillåtna under tiden 12.00 – 16.00. Med enklare arbeten avses spika upp tavlor, måla, tapetsera m.m. Ej tillåtna arbeten är att borra med slagborr, spika d.v.s. ljud som fortplantar sig lätt i huskroppen. Under all övrig tid är det inte tillåtet att utföra störande arbeten i bostaden.  
+Störande arbeten som till exempel borrning får endast ske måndag-fredag mellan 08.00 – 19.00 samt lördagar mellan kl 10.00 – 16.00. Under söndagar är vissa enklare arbeten tillåtna under tiden 12.00 – 16.00. Med enklare arbeten avses spika upp tavlor, måla, tapetsera m.m. Ej tillåtna arbeten är att borra med slagborr, spika d.v.s. ljud som fortplantar sig lätt i huskroppen. Under all övrig tid är det inte tillåtet att utföra störande arbeten i bostaden.  
 
 Vid tankar om renovering av lägenheten gäller följande; Innan start skall planerna presenteras för styrelsen. Vilka legitimerade hantverkare som planeras att användas.  
 Start och sluttid. Ingen start innan styrelsen lämnat godkännande.  
-Hantverkartiden är mellan 08.00 – 16.00 vardagar i övrigt gäller den normala tiden.  
+Hantverkartiden är mellan 08.00 – 19.00 vardagar i övrigt gäller den normala tiden.  
 Annonseringen för info till boende.  
 
-Vid varje medlemsbyte skall särskild info lämnas till nya medlemmen avseende tänka åtgärder i lägenheten för returnering till styrelsen. Vid behov av ritningsändring bekostas denna av nya medlemmen.  
+Vid varje medlemsbyte skall särskild info lämnas till nya medlemmen avseende tänkta åtgärder i lägenheten för returnering till styrelsen. Vid behov av ritningsändring bekostas denna av nya medlemmen.  
 
 ## Felanmälan
 
-Föreningen har en vicevärd, telefon 0761-18 23 18 dit felanmälan gällande samtliga ärenden görs i första hand. Som bostadsrättsinnehavare i föreningen har man ett ansvar för att vissa fel åtgärdas, medan andra fel åtgärdas av föreningen. Se folder ”Vem svarar för underhållet?” från Riksbyggen.  
+Föreningen har telefon 0761-18 23 18 dit felanmälan gällande samtliga ärenden görs i första hand. Som bostadsrättsinnehavare i föreningen har man ett ansvar för att vissa fel åtgärdas, medan andra fel åtgärdas av föreningen. Se folder ”Vem svarar för underhållet?” från Riksbyggen.  
 
 ## Säkerhet
 
