@@ -89,8 +89,8 @@ Följ de regler om städning som finns anslagna i tvättstugan. Görs inte detta
 ## Bastu och föreningsrum
 
 Bastu i hus 8 bokas via bokningstavlorna vid tvättstugor.  
-Föreningsrum i hus 16 bokas genom hyresvärden. Obs. nyckelbeställning.  
-Gym bokas via tavla vid bastu.  
+Föreningsrum i hus 16 bokas genom styrelsen. Obs. nyckelbeställning.  
+Gym behöver inte bokas.  
 
 ## Avfall
 
