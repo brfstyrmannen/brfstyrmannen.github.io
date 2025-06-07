@@ -6,4 +6,4 @@ layout: home
 
 # Registrerade dokument
 
-assets/
+[Årsredovisning 2024](assets/arsredovisning-styrmannen-2024-tryck.pdf)
