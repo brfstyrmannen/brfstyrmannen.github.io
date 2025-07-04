@@ -6,7 +6,18 @@ layout: home
 
 # Renovering
 
-Här följer lite allmänna regler när det kommer till renoveringar. Tänk på att skicka in en förfrågan om renovering till styrelsen i god tid inför renoveringen. Styrelsen sammanträder 1 gång per månad.
+Här följer lite allmänna regler när det kommer till renoveringar.
+
+## Innan start
+
+Innan start skall planerna presenteras för styrelsen. Där bör det ingå information om  
+- vilka legitimerade hantverkare som planeras att användas.  
+- planerad start och sluttid.  
+
+Tänk på att skicka in en förfrågan om renovering till styrelsen i god tid inför renoveringen. Renoveringen får inte startas innan styrelsen lämnat godkännande. Styrelsen sammanträder 1 gång per månad.  
+
+Hantverkartiden är mellan 08.00 – 19.00 vardagar i övrigt gäller den normala tiden. Annonseringen för info till boende rekommenderas.  
+
 
 ## Bjälklag
 
