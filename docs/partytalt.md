@@ -6,7 +6,7 @@ layout: home
 
 # Partytält
 
-Föreningen har ett partytält, 6 x 9 meter. Hör av er till styrelsen om du vill hyra tältet.
+Föreningen har ett partytält, 6 x 9 meter, som får hyras av medlemmar. Hör av er till styrelsen om du vill hyra tältet.
 
 Det finns en [manual](assets/partytalt.pdf) som visar hur man "enkelt" monterar tältet.
 
