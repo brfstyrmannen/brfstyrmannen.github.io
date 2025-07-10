@@ -33,4 +33,4 @@ Om det ska göras ändringar innan första ballofixen i lägnheten ska vår sama
 
 ## Ventilation
 
-Reglerna om ventilation är långa så de har fått sin [egen sida här](ventilation.md)
+Reglerna om ventilation är långa så de har fått sin [egen sida här](ventilation)
