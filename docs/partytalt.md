@@ -15,3 +15,6 @@ Det krävs 4 personer för att sätta upp det, och tar (TODO) timmar. Verktyg so
 Hyran är f.n. 150 kr per dag.
 
 Hör av er till styrelsen om du vill hyra tältet.
+
+Aktuella bokningar:
+- 17-20 juli 2025
