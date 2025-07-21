@@ -10,7 +10,7 @@ Föreningen har ett partytält, 6 x 6 meter, som får hyras av boenden. Tältet 
 
 Det finns en [manual](assets/manual-partytalt.pdf) som visar hur man "enkelt" monterar tältet.
 
-Det krävs 4 personer för att sätta upp och ta ned det, räkna med minst 2 timmar. Verktyg som krävs är skiftnyckel (finns några muttrar) och en hammare (det händer att fästen är lite snea och behöver finjusteras för att komma på plats).
+Det krävs 4 personer för att sätta upp och ta ned det, räkna med minst 2 timmar för att montera upp resp ned det. Verktyg som krävs är en skiftnyckel (det finns några muttrar) och en hammare (det händer att 90 grader stålfästen är lite snea och behöver finjusteras för att komma på plats).
 
 Hyran är f.n. 150 kr per dag.
 
