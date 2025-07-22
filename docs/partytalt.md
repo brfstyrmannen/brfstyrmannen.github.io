@@ -12,6 +12,6 @@ Det finns en [manual](assets/manual-partytalt.pdf) som visar hur man "enkelt" mo
 
 Det krävs 4 personer för att sätta upp och ta ned det, räkna med minst 2 timmar för att montera upp resp ned det. Verktyg som krävs är en skiftnyckel (det finns några muttrar) och en hammare (det händer att 90 grader stålfästen är lite snea och behöver finjusteras för att komma på plats).
 
-Hyran är f.n. 150 kr per dag.
+Hyran är f.n. 100 kr per dag.
 
 Hör av er till styrelsen om ni vill hyra tältet.
