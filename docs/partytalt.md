@@ -17,7 +17,7 @@ Det finns en [manual](assets/manual-partytalt.pdf) som visar hur man "enkelt" mo
 - mellanstag gavle, 4st
 - mellanstag, 10st
 
-Det krävs 4 personer för att sätta upp och ta ned det, räkna med minst 2 timmar för att montera upp resp ned det. Verktyg som krävs är en skiftnyckel (det finns några muttrar) och en hammare (det händer att de 90 grader stålfästen som finns är lite snea och behöver finjusteras för att komma på plats).
+Det krävs 4 personer för att sätta upp och ta ned det, räkna med minst 2 timmar för att montera upp resp ned det. Verktyg som krävs är en skiftnyckel (det finns några muttrar) och en hammare (det händer att de 90 grader stålfästen som finns är lite snea och behöver "finjusteras" för att komma på plats).
 
 Hyran är f.n. 100 kr per dag.
 
