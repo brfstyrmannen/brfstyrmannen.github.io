@@ -8,6 +8,8 @@ layout: home
 
 Föreningen har avtal med Lås & Nyckel som hanterar nycklar och taggar för våra medlemmar. Om du behöver extra nycklar och/eller taggar hjälper de dig.
 
+Om du har tappat bort en tagg hör av dig till styrelsen så att vi kan blockera den i systemet. Om du sedan hittar eller får tillbaka taggen kan vi enkelt avblockera den. Genom att blockera taggen hindrar vi obehöriga att ta sig in i fastigheterna.
+
 *Hemsida*  
 [https://nyckel.nu/kontakta-oss/](https://nyckel.nu/kontakta-oss/)  
 
