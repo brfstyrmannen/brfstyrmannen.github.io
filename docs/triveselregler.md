@@ -165,8 +165,8 @@ Vid varje försäljning kommer föreningen att göra en besiktning av lägenhete
 
 ## Vart ringer jag
 
-Felanmälan: [Vicevärd (0761-18 23 18)](tel:0761-182318)  
-Felanmälan jour: [Riksbyggen (0771 – 860 860)](tel:0771–860860)
+Felanmälan fastighetsärenden: [Vicevärd (0761-18 23 18)](tel:0761-182318)  
+Felanmälan fastighetsärenden jour: [Riksbyggen (0771 – 860 860)](tel:0771–860860)  
 Kö för parkering/förråd: [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se)  
 Låsöppning: [Securitas (010-470 53 00)](tel:010-4705300)  
 Störningsjour: [Securitas (010-470 53 00)](tel:010-4705300)  
