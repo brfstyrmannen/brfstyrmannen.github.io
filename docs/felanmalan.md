@@ -5,7 +5,7 @@ layout: home
 
 # Felanmälan
 
-## Akuta fel
+## Akuta fastighetsärenden
 
 Vid akuta fastighetsärenden, kontakta styrelsen via telefon [0761 – 18 23 18](tel:0761–182318). Om du inte når styrelsen har föreningen jour dygnet runt hos Riksbyggen, ring då [0771 – 860 860](tel:0771–860860).
 
