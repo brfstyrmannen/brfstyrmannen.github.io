@@ -1,6 +1,5 @@
 ---
 title: Föreningsstämma 2025
-layout: home
 ---
 
 # Föreningsstämma 2025
