@@ -8,9 +8,9 @@ layout: home
 
 Sophuset hittar du vid parkeringen, vid hus nr 10, mot Tredje Tvärgatan.
 
-I sophuset finns 10 kärl för sortering.  
-3 stora kärl för hushållssopor, 2 stora kärl för plastförpackningar (mjuka och hårda i samma kärl), 2 kärl för glas (Ofärgat och färgat), 1 kärl för metallförpackningar, 3 stora kärl för pappersförpackningar, 2 stora  kärl för tidningar, samt 3 bruna kärl för matavfall.  
-Det finns också mindre kärl för lampor, batterier, samt elskrot  
+I sophuset finns kärl för sortering.  
+7 stora kärl för hushållssopor, 3 stora kärl för plastförpackningar (mjuk och hård plast i samma kärl), 4 kärl för glas (2 för ofärgat och 2 för färgat), 1 kärl för metallförpackningar, 5 stora kärl för pappersförpackningar, 1 stort kärl för tidningar, samt 3 bruna kärl för matavfall.  
+Det finns också mindre kärl för lampor, batterier, samt elskrot.  
 
 ## Hushållssopor
 
