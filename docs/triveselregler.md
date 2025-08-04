@@ -63,7 +63,7 @@ Till varje lägenhet finns ett förråd i källaren. Föreningen kan erbjuda ett
 
 ## Allmänna utrymmen
 
-Städning av gemensamma utrymmen sköts genom föreningens försorg. Varje medlem bidrar till kostnaden via årsavgift. För att hålla kostnaden på låg nivå och för att värna om trygghet och trivsel bör alla ta ansvar för god ordning. Meddela vicevärd om någonting är trasigt eller om någonting verkar konstigt.  
+Städning av gemensamma utrymmen sköts genom föreningens försorg. Varje medlem bidrar till kostnaden via årsavgift. För att hålla kostnaden på låg nivå och för att värna om trygghet och trivsel bör alla ta ansvar för god ordning. Meddela styrelsen om någonting är trasigt eller om någonting verkar konstigt.  
 
 ## Cyklar och mopeder
 
@@ -165,7 +165,7 @@ Vid varje försäljning kommer föreningen att göra en besiktning av lägenhete
 
 ## Vart ringer jag
 
-Felanmälan fastighetsärenden: [Vicevärd (0761-18 23 18)](tel:0761-182318)  
+Felanmälan fastighetsärenden: [Styrelsen (0761-18 23 18)](tel:0761-182318)  
 Felanmälan fastighetsärenden jour: [Riksbyggen (0771 – 860 860)](tel:0771–860860)  
 Kö för parkering/förråd: [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se)  
 Låsöppning: [Securitas (010-470 53 00)](tel:010-4705300)  

@@ -50,7 +50,7 @@ Till varje lägenhet hör ett förråd. Behöver du mer utrymme kan du ställa d
 
 ## Felanmälan
 
-Kontakta vicevärden 0761-18 23 18 eller skicka e-post till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se).
+Kontakta styrelsen per telefon 0761-18 23 18 eller skicka e-post till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se).
 
 ## Städdag
 
