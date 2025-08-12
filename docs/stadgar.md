@@ -8,6 +8,10 @@ layout: home
 Registrerades hos Bolagsverket 2024-07-29 11:55 [R327625/24]  
 Organisationsnummer: 385000-3539  
 
+## Pdf
+
+[Klicka här för att ladda ned i pdf format](assets/stadgar-2024.pdf)
+
 ## Innehåll  
 
 [Föreningen](#föreningen)  
