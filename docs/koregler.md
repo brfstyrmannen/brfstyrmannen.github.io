@@ -35,20 +35,17 @@ Eftersom efterfrågan oftast överstiger antalet platser så tillämpas strikta 
 ## Regler när man står utan bil
 
 1. Om man saknar tillgång till bil under mer än 6 månader ska avtalet sägas upp. Om man vill ha en ny plats kan man ställa sig i kö, man får stå i kö även om man för tillfället saknar bil.
-2. Förstahandshyresgästen får själv finna intresserad person från kölistan och meddela detta till Styrelsen.
 
 ## Regler för andrahandsuthyrning
 
 1. Uthyrning får endast ske till person som står i kölistan.
 2. Andrahandshyra får inte vara högre än förstahandshyran.
-3. Vid uthyrning mindre än 6 månader får förstahandshyresgästen själv finna intresserad person från kölistan och meddela detta till Styrelsen.
-4. Vid uthyrning 6 månader eller mer ska förmedlingen ske genom Styrelsen.
+3. Vid uthyrning ska förmedlingen ske genom Styrelsen.
 
 ## Ordningsregler för garage
 
-1. Garageplatserna upplåts enbart för förvaring av personbilar, och tillbehör såsom en uppsättning däck med fälg och takbox. Ingen annan förvaring får ske på den hyrda platsen.
-2. Fasta eller rörliga förvaringsanordningar får under inga omständigheter monteras av hyresgästen på garageplats.
-3. Tvätt av motorfordon i garaget är inte tillåtet.
-4. På garageplats där eluttag finns har hyresgästen rätt att ansluta motorvärmare. Inga andra elapparater får anslutas.
+1. Garageplatserna upplåts enbart för förvaring av personbilar, och tillbehör såsom en uppsättning däck med fälg och takbox. Det är inte en plats för förråd avv godtyckliga saker.
+2. Tvätt av motorfordon i garaget är inte tillåtet.
+3. På garageplats där eluttag finns har hyresgästen rätt att ansluta motorvärmare. Inga andra elapparater får anslutas.
 
 **Eventuellt missbruk av reglerna** kan leda till att hyresavtalet sägs upp.
