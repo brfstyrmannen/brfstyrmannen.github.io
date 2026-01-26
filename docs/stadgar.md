@@ -6,7 +6,7 @@ layout: home
 
 # Stadgar Riksbyggen Bostadsrättsförening Styrmannen
 Registrerades hos Bolagsverket 2024-07-29 11:55 [R327625/24]  
-Organisationsnummer: 385000-3539  
+Organisationsnummer: 785000-3539  
 
 ## Pdf
 
