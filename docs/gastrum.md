@@ -20,7 +20,7 @@ Den som hyr rummet behöver ta med sig egna sängkläder och handdukar. Kuddar o
 
 Gästrummet kan bokas från informationstavlorna i alla portar eller via internet.
 
-Det finns en toalett i anslutning till rummet. Dusch finns i bastun, som du kan boka separat (bastun har normalt en avgift på 25 kr men den betalar man inte när man använder bastun i samband med en bokning av gästrummet).
+Det finns en toalett i anslutning till rummet. Dusch finns i bastun, som du kan boka separat.
 
 För en guide om hur du bokar kan du gå in på sidan om tvättstugan.
 
@@ -42,4 +42,4 @@ När det är dags att checka ut vill vi att du skickar ett meddelande via sms/ma
 
 ## Betala
 
-Vi lämnar en faktura för ert besök i din postlåda i samband med att du checkar ut. Du kan betala antingen via Swish eller kontant. Vi lämnar ett kvitto via postlådan när vi har registrerat betalningen.
+Kostnaden för ert besök kommer på hyresavin som släpande avgift.
