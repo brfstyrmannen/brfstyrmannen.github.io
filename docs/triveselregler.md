@@ -20,7 +20,7 @@ Styrelsen kan med stöd av bostadsrättslagen säga upp ett medlemskap i föreni
 
 Visa respekt, hänsyn och omtanke mot grannar. Respektera kravet på tystnad mellan kl 22.00 och 07.00 alla dagar. Det innebär att tvätt- och diskmaskiner samt dammsugare inte får användas efter 22.00 i större utsträckning. Visa gärna även hänsyn när det gäller dusch och bad nattetid.  
 
-Föreningen har avtal med Securitas störningsjour, ring 010-470 53 00 om din granne stör dig. Ett vänligt påpekande innan störningsjouren meddelas kan dock avhjälpa problemet och ingen anmälan till störningsjouren innan störningen påtalats. Vid bedömning att risk föreligger görs anmälan direkt eller till polis. Glöm inte att varna den störande om ersättning Störningsjouren för utryckningen.  
+Föreningen har avtal med Securitas störningsjour, ring 010-470 53 00 om din granne stör dig. Ett vänligt påpekande innan störningsjouren meddelas kan dock avhjälpa problemet, och ingen anmälan till störningsjouren bör göras innan störningen har påtalats. Vid bedömning att risk föreligger görs anmälan direkt eller till polis. Glöm inte att varna den störande om ersättning till Störningsjouren för utryckningen.  
 Beakta störningsnivån.  
 Vid större fest anslå information på tavla i foajé.  
 
@@ -94,11 +94,11 @@ Gym behöver inte bokas.
 
 ## Avfall
 
-I soprummet finns uppmärkta kärl för sopsortering. Alla bostadrättsinnehavare är skyldiga att sortera sina sopor och trycka ihop kartoner. Påtala även detta för hemthänsperonsla. PÅsar för matavfall finnas att hämta i soprummet.  
+I soprummet finns uppmärkta kärl för sopsortering. Alla bostadrättsinnehavare är skyldiga att sortera sina sopor och trycka ihop kartoner. Påtala även detta för hemtjänstpersonal. PÅsar för matavfall finnas att hämta i soprummet.  
 
 Sopor får inte ställas ut på loftgångarna, trapphus eller ställas ner i källaren. Det är inte tillåtet att förvara sopor på balkongen.
 Grovsopor, byggavfall, uttjänta möbler, dörrar, badkar med mera får inte ställas i allmänna utrymmen. Bortforsling ansvarar lägenhetsinnehavaren för.
-Gäsrike Återvinnare, Utmarksvägen 16 Sörbjy Urfjäll, telefon 026-17 84 95.  
+Gästrike Återvinnare, Utmarksvägen 16 Sörby Urfjäll, telefon 026-17 84 95.  
 
 Vitvaror omfattas av producentansvar vilket innebär att alla leverantörer är skyldiga att avlägsna uttjänta vitvaror när de levererar nytt.  
 
