@@ -16,4 +16,4 @@ Om du vill fråga något skicka gärna ett mail till [info@brfstyrmannen.se](mai
 
 Om du har synpunkter på hemsidan och/eller föreningen skicka gärna ett mail till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se).
 
-Visste du att föreningen har mail adressen [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se)?
+Visste du att föreningen har mailadressen [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se)?
