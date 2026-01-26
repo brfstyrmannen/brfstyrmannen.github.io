@@ -43,3 +43,7 @@ När det är dags att checka ut vill vi att du skickar ett meddelande via sms/ma
 ## Betala
 
 Kostnaden för ert besök kommer på hyresavin som släpande avgift.
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2026-01-26*

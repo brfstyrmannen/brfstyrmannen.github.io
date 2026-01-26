@@ -49,3 +49,7 @@ Eftersom efterfrågan oftast överstiger antalet platser så tillämpas strikta 
 3. På garageplats där eluttag finns har hyresgästen rätt att ansluta motorvärmare. Inga andra elapparater får anslutas.
 
 **Eventuellt missbruk av reglerna** kan leda till att hyresavtalet sägs upp.
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2025-09-17*

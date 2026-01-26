@@ -23,3 +23,7 @@ Här hittar du en översikt av garage-platsernas nummer.
 Här hittar du en översikt av parkerings-platsernas nummer.
 
 [Översikt parkering](https://drive.google.com/file/d/1ldkyUIc6-wQAzunD3PSEA-YXwJM9K9O3/view?usp=sharing)
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2025-11-05*

@@ -55,3 +55,7 @@ Det finns en liten låda för mindre elskrot (elvisp, eltandborste, brödrost, m
 ## Grovsopor och övrigt avfall
 
 Hanteras inte av föreningen. Se kommunens hemsida: [https://gastrikeatervinnare.se/](https://gastrikeatervinnare.se/)
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2025-08-04*

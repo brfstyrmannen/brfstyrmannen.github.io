@@ -13,3 +13,7 @@ Vill du vara med? Kontakta valberedningen om du är intresserad.
 På grund av GDPR kan vi inte publicera kontaktuppgifter på hemsidan men du hittar kontaktuppgifter till valberedningen på ”Mitt Riksbyggen” > ”Styrelsen informerar”, direkt-länk https://mitt.riksbyggen.se/boende/min-forening/styrelsen-informerar/?contentId=75219 (kräver Mobilt Bank-ID).
 
 Saknar du Mobilt Bank-ID? Lämna en lapp i röda lådan i hus 10 så lägger vi en lapp med kontaktuppgifter i din postlåda.
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2025-09-19*

@@ -16,3 +16,6 @@ De som nyttjar pingisrummet ansvarar för att det lämnas snyggt efter nyttjande
 ![bordtennis-2](assets/bordtennis-2x300.jpg)
 ![bordtennis-3](assets/bordtennis-3x300.jpg)
 
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2024-12-26*

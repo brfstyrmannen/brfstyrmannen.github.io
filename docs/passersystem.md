@@ -43,4 +43,8 @@ Din gäst trycker på B och slår sedan ditt telefonnummer inklusive riktnummer.
 Nu ringer det hos dig.  
 När du svarar kan du prata med din gäst.  
 Är det någon du känner och vill släppa in trycker du 5 på din telefon. Är det ingen du känner eller vill släppa in lägger du på luren.  
-Har du tryckt 5 på din telefon låses porten upp och din gäst kan öppna dörren.  
+Har du tryckt 5 på din telefon låses porten upp och din gäst kan öppna dörren.
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2024-11-19*

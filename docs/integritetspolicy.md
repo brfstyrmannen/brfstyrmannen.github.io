@@ -58,5 +58,8 @@ Dina uppgifter visas för och hanteras av styrelseledamöterna och styrelsesuppl
 
 Bostadsrättsföreningen lämnar ut personuppgifter till av bostadsrättsföreningen anlitade leverantörer för att utföra behandlingen enligt ovan. Vi upprättar biträdesavtal med respektive anlitad leverantör för att säkerställa att våra personuppgifter hanteras och skyddas på ett adekvat sätt.
 
-Dina uppgifter kan komma att lämnas ut till tredje part då det finns krav på detta enligt lag eller då du har lämnat samtycke till en tredje part. Detta gäller t ex när en mäklare anlitas av dig för att sälja din lägenhet. 
+Dina uppgifter kan komma att lämnas ut till tredje part då det finns krav på detta enligt lag eller då du har lämnat samtycke till en tredje part. Detta gäller t ex när en mäklare anlitas av dig för att sälja din lägenhet.
 
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2025-08-06*

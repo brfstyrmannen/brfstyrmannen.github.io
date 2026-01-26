@@ -22,3 +22,7 @@ Det krävs 4 personer för att sätta upp och ta ned det, räkna med minst 2 tim
 Hyran är f.n. 100 kr per dag.
 
 Hör av er till styrelsen om ni vill hyra tältet.
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2025-08-02*

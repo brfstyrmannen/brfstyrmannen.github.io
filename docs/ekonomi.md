@@ -13,3 +13,7 @@ Har du frågor om något som rör ekonomi (avier, pantföreskrivningar, etc) rin
 # Årsredovisningar
 
 [Årsredovisning 2024](assets/arsredovisning-styrmannen-2024.pdf)
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2025-08-04*

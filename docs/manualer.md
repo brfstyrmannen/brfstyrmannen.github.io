@@ -15,3 +15,7 @@ Här hittar du diverse manualer.
 ## Partytält
 
 [Manual Partytält](assets/manual-partytalt.pdf)
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2025-07-06*

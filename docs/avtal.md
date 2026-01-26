@@ -11,3 +11,7 @@ Här nedan hittar ni de avtal som man kan ha med föreningen. Är du osäker på
 [Parkeringsplats](https://docs.google.com/document/d/1H2JFqAj42U31qXbwrQTKjoqBmdid40SmALIq7gYHhwk/edit?usp=sharing)
 
 [Förråd](https://docs.google.com/document/d/1R-xSV7AKaWykwbgjdtnTl8lvFb0HVQLed1PjS_5RRwU/edit?usp=sharing)
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2024-12-26*

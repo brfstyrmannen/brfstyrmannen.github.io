@@ -41,3 +41,7 @@ VVS Installatören i Gävle AB / tel 026 - 12 69 10
 
 Mindre byggprojekt (vi anlitar dem bl.a. för fel med balkongdörrar, fönster och så)...
 MM Glas Bygg AB / tel 070 - 646 09 96
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2025-08-04*

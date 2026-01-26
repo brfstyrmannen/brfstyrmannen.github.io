@@ -27,3 +27,7 @@ Brandskyddskontroller görs löpande och ronderingar finns upprättade.
 ## Övrigt
 
 Lekplatsen besiktas varje år.
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2024-12-26*

@@ -23,3 +23,7 @@ Kom ihåg att städa lokalen efter er, om det inte är städad tillkommer en avg
 ![festlokal-4](assets/festlokal-4x300.jpg)
 ![festlokal-5](assets/festlokal-5x300.jpg)
 ![festlokal-6](assets/festlokal-6x300.jpg)
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2026-01-26*

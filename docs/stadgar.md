@@ -857,3 +857,7 @@ Upplöses föreningen ska, sedan verksamheten lagligen avvecklats, uppkommet öv
 ### § 74 Annan lagstiftning
 
 I allt som rör föreningens verksamhet gäller utöver dessa stadgar, bostadsrättsla­gen, lagen om eko­nomiska föreningar, liksom annan lag som berör föreningens verksamhet. Om be­stämmelser i dessa stadgar framledes skulle komma att stå i strid med tvingande lagstift­ning gäller lagens bestämmelser.
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2026-01-26*

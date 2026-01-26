@@ -25,4 +25,8 @@ Om ni har pengar kvar i den inre fonden framgår det på er avgiftsavi. Ni behö
 
 ## Min TV eller bredband fungerar inte
 
-Föreningen har avtal med Telia, e-post och telefonnummer till deras support hittar du på [https://www.telia.se/kontakt](https://www.telia.se/kontakt) .  
+Föreningen har avtal med Telia, e-post och telefonnummer till deras support hittar du på [https://www.telia.se/kontakt](https://www.telia.se/kontakt) .
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2024-12-26*

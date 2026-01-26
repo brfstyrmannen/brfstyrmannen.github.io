@@ -26,3 +26,7 @@ SE785000353901
 **Vår referens:**
 
 Ange *alltid* namn på din kontaktperson hos oss så blir det enklare för oss att skicka vidare betalningen i ekonomi-systemet.
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2025-02-24*

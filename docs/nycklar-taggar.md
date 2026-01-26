@@ -22,4 +22,8 @@ Måndag – fredag:  07.00–16.00
 Lördag – söndag:  Stängt  
 
 *Telefon:*
-[026-51 74 01](tel:026-517401)  
+[026-51 74 01](tel:026-517401)
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2025-08-04*

@@ -17,3 +17,7 @@ Parkerings-platser finns med och utan motorvärmare, du kan läsa manualen [asse
 Om du önskar säga upp en parkerings-plats gäller samma kontaktvägar som när du ställde dig i kö. Du får alltid en skriftlig bekräftelse på din uppsägning i din postlåda.
 
 Saknar du Mobilt Bank-ID? Lämna en lapp i röda lådan i hus 10 så lägger vi en kopia av kö-listan i din postlåda.
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2024-12-26*

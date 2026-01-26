@@ -53,4 +53,8 @@ Senaste justering av årsavgift: 1 feb 2024 +3%, 1 jan 2025 +5%
 
 ## Överlåtelser
 Juridisk person: Vi godtar inte juridisk person som medlem i föreningen.  
-Delat ägande: Delat ägande tillåtet med en minsta ägarandel om 10%.  
+Delat ägande: Delat ägande tillåtet med en minsta ägarandel om 10%.
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2025-08-23*

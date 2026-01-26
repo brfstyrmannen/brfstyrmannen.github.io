@@ -21,3 +21,7 @@ Stämman beslutade enhälligt att anta styrelsens förslag till nya stadgar i en
 ### § I Beslut angående leverantör av TV och Bredbandstjänst
 
 Stämman beslutade att anta det av styrelsen framarbetade förslag att anlita Telia TV Lagom 1000 Mb/s.
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2024-11-19*

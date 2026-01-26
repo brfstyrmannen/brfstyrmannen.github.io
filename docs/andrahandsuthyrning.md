@@ -13,3 +13,7 @@ Föreningen tar ut en avgift för andrahandsuthyrningar. Avgiften är 10% av akt
 Ansökan gör du enklast via [Mitt Riksbyggen > Mitt boende > Hyra ut i andra hand](https://mitt.riksbyggen.se/boende/min-bostad/hyr-ut-i-andra-hand/).
 
 Beslut tas på ordinarie styrelsemöte som hålls en gång i månaden med undantag för juli månad.
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2024-11-19*

@@ -12,3 +12,7 @@ Ingen förbokning krävs.
 
 ![aktivitetsrum-1](assets/aktivitetsrum-1x300.jpg)
 ![aktivitetsrum-2](assets/aktivitetsrum-2x300.jpg)
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2024-12-26*

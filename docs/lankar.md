@@ -14,3 +14,7 @@ Här hittar du användbara länkar relaterade till föreningen.
 ## Hantera passersystem (admin)
 
 [http://brfstyrmannen.dyndns.org/Hantera](http://brfstyrmannen.dyndns.org/Hantera)
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2024-11-19*

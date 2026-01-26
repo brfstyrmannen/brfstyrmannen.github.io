@@ -22,3 +22,7 @@ Rummet är spartanskt inrett men det finns
 Hör av er till styrelsen om ni vill låna nycklar.
 
 ![hobbyrum-1](assets/hobbyrum-1.jpg)
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2025-08-02*

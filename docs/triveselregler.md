@@ -170,4 +170,8 @@ Felanmälan fastighetsärenden jour: [Riksbyggen (0771 – 860 860)](tel:0771–
 Kö för parkering/förråd: [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se)  
 Låsöppning: [Securitas (010-470 53 00)](tel:010-4705300)  
 Störningsjour: [Securitas (010-470 53 00)](tel:010-4705300)  
-Ohyra: [Anticimex (026-12 80 00)](tel:026-128000)  
+Ohyra: [Anticimex (026-12 80 00)](tel:026-128000)
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2026-01-26*

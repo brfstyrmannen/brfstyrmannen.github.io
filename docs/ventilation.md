@@ -28,3 +28,7 @@ Spaltventilerna i fönsterkarmarna ser till att det kommer in friskluft i lägen
 Om en fläkt monteras, förstör den funktionen i tryckregleringen i hela huset och kan föra över matos till andra lägenheter genom det gemensamma ventilationssystemet. Vart sjätte år utförs en lagstadgad besiktning av ventilationen, en s k OVK. Om en spisfläkt då påträffas, får bostadsrättsinnehavaren själv ombesörja att den demonteras och ersätts med en spiskåpa av godkänd typ. Annars kommer inte ventilationen i den aktuella fastigheten att kunna godkännas.
 
 Kontakta alltid styrelsen, innan du gör någon förändring, när det gäller spiskåpan.
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2025-05-18*

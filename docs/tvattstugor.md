@@ -73,3 +73,7 @@ För att logga ut trycker du på Logga ut, i menyn.
 ## Felanmälan
 
 Om något i tvättstugan inte fungerar som det ska behöver du felanmäla detta till styrelsen. Är det en maskin som är trasig behöver det specificeras vilken maskin det gäller, vilken ev felkod är, vad som har inträffat och när i programmet det inträffade. Beskriv gärna så utförligt som möjligt så är det lättare för servicepersonalen att lokalisera felet.
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2024-11-19*

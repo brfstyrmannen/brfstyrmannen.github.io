@@ -85,3 +85,7 @@ Till sist vill vi än en gång önska dig varmt välkommen i vår förening och 
 Vänliga hälsningar,
 
 Styrelsen Brf Styrmannen
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2026-01-26*

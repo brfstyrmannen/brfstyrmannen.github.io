@@ -18,3 +18,7 @@ De som nyttjar bastun ansvarar för att det lämnas snyggt efter nyttjande.
 ![bastu-2](assets/bastu-2x300.jpg)
 ![bastu-3](assets/bastu-3x300.jpg)
 ![bastu-4](assets/bastu-4x300.jpg)
+
+---
+
+*Sidan senast kontrollerad och uppdaterad: 2025-06-04*
