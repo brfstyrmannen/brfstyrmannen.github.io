@@ -34,7 +34,7 @@ Hyran för rummet är 100 kr per natt. Kom ihåg att städa rummet efter er, om 
 
 ## Checka in
 
-Det sitter en taggläsaren på dörren, du kommer in med din vanliga tagg på de tider du har bokat gästrummet.
+Det sitter en taggläsare på dörren, du kommer in med din vanliga tagg på de tider du har bokat gästrummet.
 
 ## Checka ut
 
