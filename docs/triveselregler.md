@@ -94,7 +94,7 @@ Gym behöver inte bokas.
 
 ## Avfall
 
-I soprummet finns uppmärkta kärl för sopsortering. Alla bostadrättsinnehavare är skyldiga att sortera sina sopor och trycka ihop kartoner. Påtala även detta för hemtjänstpersonal. PÅsar för matavfall finnas att hämta i soprummet.  
+I soprummet finns uppmärkta kärl för sopsortering. Alla bostadrättsinnehavare är skyldiga att sortera sina sopor och trycka ihop kartoner. Påtala även detta för hemtjänstpersonal. Påsar för matavfall finnas att hämta i soprummet.  
 
 Sopor får inte ställas ut på loftgångarna, trapphus eller ställas ner i källaren. Det är inte tillåtet att förvara sopor på balkongen.
 Grovsopor, byggavfall, uttjänta möbler, dörrar, badkar med mera får inte ställas i allmänna utrymmen. Bortforsling ansvarar lägenhetsinnehavaren för.
