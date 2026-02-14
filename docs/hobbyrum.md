@@ -19,10 +19,10 @@ Rummet är spartanskt inrett men det finns
 - en snickarbänk
 - ett större bord
 
-Hör av er till styrelsen om ni vill låna nycklar.
+Din lägenhetsnyckel fungerar att öppna hobbyrummet med.
 
 ![hobbyrum-1](assets/hobbyrum-1.jpg)
 
 ---
 
-*Sidan senast kontrollerad och uppdaterad: 2025-08-02*
+*Sidan senast kontrollerad och uppdaterad: 2026-02-14*
