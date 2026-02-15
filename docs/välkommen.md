@@ -74,7 +74,7 @@ Det är inte tillåtet att mata fåglarna i närheten av fastigheterna då reste
 
 ## Stadgar och Trivselregler
 
-Alla som bor i föreningen ska följa föreningens stadgar (https://www.brfstyrmannen.se/stadgar/) samt trivselregler (https://www.brfstyrmannen.se/trivselregler/).
+Alla som bor i föreningen ska följa föreningens [stadgar](https://www.brfstyrmannen.se/stadgar/) samt [trivselregler](https://www.brfstyrmannen.se/trivselregler/).
 
 ## Mer information
 
@@ -88,4 +88,4 @@ Styrelsen Brf Styrmannen
 
 ---
 
-*Sidan senast kontrollerad och uppdaterad: 2026-01-26*
+*Sidan senast kontrollerad och uppdaterad: 2026-02-15*
