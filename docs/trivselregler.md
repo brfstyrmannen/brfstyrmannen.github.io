@@ -26,10 +26,10 @@ Vid större fest anslå information på tavla i foajé.
 
 ## Arbeten i lägenhet
 
-Störande arbeten som till exempel borrning får endast ske måndag-fredag mellan kl 07.00 – 20.00 samt lör-sön mellan kl 10.00 – 18.00. Under all övrig tid är det inte tillåtet att utföra störande arbeten i bostaden.  
+Störande arbeten som till exempel borrning får endast ske måndag-fredag mellan kl 07.00 – 20.00 samt lördag-söndag mellan kl 10.00 – 18.00. Under all övrig tid är det inte tillåtet att utföra störande arbeten i bostaden.  
 
 Vid tankar om renovering av lägenheten gäller följande; Innan start skall planerna presenteras för styrelsen. Vilka legitimerade hantverkare som planeras att användas.  
-Start och sluttid. Ingen start innan styrelsen lämnat godkännande. Info till grannar innan renoveringsstart uppmuntras.  
+Samt start- och sluttid. Ingen start innan styrelsen lämnat godkännande. Info till grannar innan renoveringsstart uppmuntras.  
 
 Vid varje medlemsbyte skall särskild info lämnas till nya medlemmen avseende tänkta åtgärder i lägenheten för returnering till styrelsen. Vid behov av ritningsändring bekostas denna av nya medlemmen.  
 
