@@ -9,12 +9,12 @@ Här hittar du användbara länkar relaterade till föreningen.
 
 ## Boka tvättsuga
 
-[http://brfstyrmannen.dyndns.org/Boka/](http://brfstyrmannen.dyndns.org/Boka/)
+[https://www.brfstyrmannen.se/Boka](https://www.brfstyrmannen.se/Boka)
 
 ## Hantera passersystem (admin)
 
-[http://brfstyrmannen.dyndns.org/Hantera](http://brfstyrmannen.dyndns.org/Hantera)
+[https://www.brfstyrmannen.se/Hantera](https://www.brfstyrmannen.se/Hantera)
 
 ---
 
-*Sidan senast kontrollerad och uppdaterad: 2024-11-19*
+*Sidan senast kontrollerad och uppdaterad: 2026-05-27*
