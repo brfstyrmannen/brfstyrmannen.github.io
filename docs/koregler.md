@@ -1,12 +1,10 @@
 ---
-title: Kö-regler för parkering och garage
+title: Köregler för parkering och garage
 parent: Förvaltning
 layout: home
 ---
 
-<code style="color : darkorange">Följande regler gäller från och med 2024 Q3. Reglerna gäller inte retroaktivt.</code>
-
-# Kö-regler för parkering och garage
+# Köregler för parkering och garage
 
 Eftersom efterfrågan oftast överstiger antalet platser så tillämpas strikta regler enligt följande
 
@@ -52,4 +50,4 @@ Eftersom efterfrågan oftast överstiger antalet platser så tillämpas strikta 
 
 ---
 
-*Sidan senast kontrollerad och uppdaterad: 2025-09-17*
+*Sidan senast kontrollerad och uppdaterad: 2026-06-01*
