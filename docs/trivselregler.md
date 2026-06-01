@@ -132,7 +132,9 @@ Elinstallationer skall utföras av behörig elektriker.
 
 ## Uthyrning i andra hand
 
-Uthyrning i andra hand kräver styrelsens samtycke. Blankett för ansökan om andrahandsuthyrning tillhandahålls av styrelsen. Finns även att ladda ned från kundwebben. Lägenhetsinnehavaren är fullt ansvarig för bostaden under hela andrahandsuthyrningen. Vid andrahandsuthyrning tappar lägenhetsinnehavaren parkerings-/garageplats och kölistan aktiveras. Vill ordinarie lägenhetsinnehavare kvarstå som sökande så hamnar man längst ned i kölistan. En avgift tas ut av föreningen från lägenhetsinnehavaren.  
+Uthyrning i andra hand kräver styrelsens samtycke. Blankett för ansökan om andrahandsuthyrning tillhandahålls av styrelsen. Finns även att ladda ned från kundwebben. Lägenhetsinnehavaren är fullt ansvarig för bostaden under hela andrahandsuthyrningen. En avgift tas ut av föreningen från lägenhetsinnehavaren.
+
+Vid andrahandsuthyrning tappar lägenhetsinnehavaren parkerings-/garageplats och kölistan aktiveras. Vill ordinarie lägenhetsinnehavare kvarstå som sökande så hamnar man längst ned i kölistan. Undantag tillåts om uthyrning av lägenheten gäller max ett år, i vilket fall lägenhetsinnehavaren får hyra ut parkerings-/garageplatsen under perioden. [Regler för andrahandsuthyrning av parkeringsplats](koregler.html#regler-f%C3%B6r-andrahandsuthyrning) gäller då.
 
 ## Övrigt
 
@@ -172,4 +174,4 @@ Ohyra: [Anticimex (026-12 80 00)](tel:026-128000)
 
 ---
 
-*Sidan senast kontrollerad och uppdaterad: 2026-03-05*
+*Sidan senast kontrollerad och uppdaterad: 2026-06-01*
