@@ -1,6 +1,6 @@
 ---
 title: Köregler för parkering och garage
-parent: Förvaltning
+parent: Regler
 layout: home
 ---
 
