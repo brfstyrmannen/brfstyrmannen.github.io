@@ -106,7 +106,7 @@ Var rädd om buskar och planteringar. Skräpa inte ner. Husdjur får inte rastas
 
 ## Garage och parkering
 
-Antalet uppställningsplatser för fordon är begränsat och räcker inte till för alla lägenhetsinnehavare. Av den anledningen är det inte tillåtet att hyra fler än en plats per hushåll, i den mån platserna räcker till. Kösystem tillämpas, kontakta parkeringsansvarig i styrelsen för mer information eller för att ställa dig i kö.  
+Antalet uppställningsplatser för fordon är begränsat och räcker inte till för alla lägenhetsinnehavare. Av den anledningen är det inte tillåtet att hyra fler än en plats per hushåll, i den mån platserna räcker till. Kösystem tillämpas, kontakta parkeringsansvarig i styrelsen för mer information eller för att ställa dig i kö. [Se köregler](koregler.html).
 
 Garagedörrarna skall hållas låsta. Alla fordon som står i garage och på P-plats skall vara i körbart skick.  
 
