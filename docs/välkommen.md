@@ -36,7 +36,7 @@ Du aktiverar själv dina tjänster för TV och bredband via https://www.telia.se
 
 Om TV och bredband redan är aktiverat på din lägenhet kan du ringa Telia på 020-20 20 70 och säga att du ringer från en Brf med kollektivt avtal och att du precis har flyttat in. Så slipper du överraskning långt senare; om den tidigare ägaren har Telia på sin nya adress eller på nästa adress kommer Telia att koppla bort tjänsten hos dig eftersom de inte vet om att du har flyttat in.
 
-## Auto-giro
+## Autogiro
 
 Om du vill betala månadsavin med autogiro har Riksbyggen information om det här [https://www.riksbyggen.se/kundtjanst/autogiro/](https://www.riksbyggen.se/kundtjanst/autogiro/). Betalningsmottagare du fyller upp i internetbanken är Riksbyggen Brf Styrmannen.
 
@@ -46,7 +46,7 @@ För att söka parkerings-plats kontakta kö-ansvarig på [info@brfstyrmannen.se
 
 ## Förråd
 
-Till varje lägenhet hör ett förråd. Behöver du mer utrymme kan du ställa dig i kö till ett extra förråd. Kontakta kö-ansvarig på [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se).
+Till varje lägenhet hör ett förråd. Behöver du mer utrymme kan du ställa dig i kö till ett extra förråd. Kontakta köansvarig på [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se).
 
 ## Felanmälan
 
