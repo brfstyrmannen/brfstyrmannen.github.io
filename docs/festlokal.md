@@ -6,14 +6,13 @@ layout: home
 
 # Föreningslokal
 
-I föreningen finns en Föreningslokal att hyra. I anslutning finns ett kök med fullstor kyl/frys, spis, kaffebryggare, diskho och plats för att bereda mat.
+I föreningen finns en Föreningslokal att låna. I anslutning finns ett kök med fullstor kyl/frys, spis, kaffebryggare, diskho och plats för att bereda mat.
 
 Glas, kaffemuggar, bestick finns för 20 personer.
 
 Lokalen består av två delar, med plats för 14 stolar i ena och en 5-sits soffa i den andra.
 
-
-Det finns en fysisk nyckel till lokalen så du behöver höra av dig några dagar i förväg så att du kan få nyckeln. Vi får ingen notifiering per automatik när någon bokar så man får kontakta styrelsen via telefon eller mail. Lokalen får disponeras från klockan 12.00 till 11.59 dagen därpå.
+Lokalen kan bokas via hemsidan eller via tagläsaren utanför lokalen.
 
 Kom ihåg att städa lokalen efter er, om det inte är städad tillkommer en avgift för detta. Det skall vara rent och snyggt för nästa besökande.
 
@@ -26,4 +25,4 @@ Kom ihåg att städa lokalen efter er, om det inte är städad tillkommer en avg
 
 ---
 
-*Sidan senast kontrollerad och uppdaterad: 2026-01-26*
+*Sidan senast kontrollerad och uppdaterad: 2026-08-07*
