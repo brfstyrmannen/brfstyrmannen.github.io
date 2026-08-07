@@ -7,7 +7,7 @@ layout: home
 
 Här hittar du användbara länkar relaterade till föreningen.
 
-## Boka tvättsuga
+## Boka tvättstuga mm
 
 [https://www.brfstyrmannen.se/Boka](https://www.brfstyrmannen.se/Boka)
 
