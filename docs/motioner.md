@@ -18,4 +18,4 @@ Hur man skriver är upp till var och en, men det finns dock några regler.
 
 ---
 
-*Sidan senast kontrollerad och uppdaterad: 2024-11-19*
+*Sidan senast kontrollerad och uppdaterad: 2026-08-07*
