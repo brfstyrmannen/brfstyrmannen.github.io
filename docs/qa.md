@@ -19,7 +19,7 @@ Läs mer om ReKey här [https://static-mpc-spear-production.assaabloy.com/asfe/F
 
 Föreningen har avtal med Lås & Nyckel [https://nyckel.nu/kontakta-oss/](https://nyckel.nu/kontakta-oss/), de säljer dig en/flera nya taggar och ser till så att gamla taggar inaktiveras.  
 
-Vi funderar på att renovera lite hemma, har vi kvar pengar i den inre fonden?  
+## Vi funderar på att renovera lite hemma, har vi kvar pengar i den inre fonden?  
 
 Om ni har pengar kvar i den inre fonden framgår det på er avgiftsavi. Ni behöver då fylla i en blankett, bifoga kvitton, och skicka det till Riksbyggen. Från februari 2024 går Riksbyggen över till digital hantering via Mitt Riksbyggen. För mer information se Förvaltning > Inre fond.  
 
@@ -29,4 +29,4 @@ Föreningen har avtal med Telia, e-post och telefonnummer till deras support hit
 
 ---
 
-*Sidan senast kontrollerad och uppdaterad: 2024-12-26*
+*Sidan senast kontrollerad och uppdaterad: 2026-08-07*
