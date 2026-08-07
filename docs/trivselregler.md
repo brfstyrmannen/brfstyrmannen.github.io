@@ -161,7 +161,7 @@ Som Riksbyggenbostadsrättsförening har vi tillgång till en sida som heter kun
 
 ## Medlemsbyte
 
-Vid varje försäljning kommer föreningen att göra en besiktning av lägenheten så att säljaren hinner att åtgärda eventuella brister. Vidare kommer tagg och nyckel-kontroll att utföras vid Lås och Nyckel.  
+Vid varje försäljning kommer föreningen att göra en besiktning av lägenheten så att säljaren hinner att åtgärda eventuella brister. Vidare kommer tagg- och nyckelkontroll att utföras vid Lås och Nyckel.  
 
 ## Vart ringer jag
 
