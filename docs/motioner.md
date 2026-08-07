@@ -14,7 +14,7 @@ Hur man skriver är upp till var och en, men det finns dock några regler.
 
 * Motionen måste innehålla motivering och bakgrund till förslaget samt ett förslag till beslut som stämman ska ta ställning till.
 * Motionen måste vara undertecknad av motionären och lämnas skriftligt på papper till styrelsen.
-* *tionen måste lämnas till styrelsen inom föreskriven tid för att kunna behandlas under årsstämman.
+* Motionen måste lämnas till styrelsen inom föreskriven tid för att kunna behandlas under årsstämman.
 
 ---
 
