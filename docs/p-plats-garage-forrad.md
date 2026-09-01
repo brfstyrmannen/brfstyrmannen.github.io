@@ -12,7 +12,7 @@ För att ställa dig i kö till parkeringsplats, garage eller förråd skickar d
 
 Pga GDPR kan vi inte publicera kölistorna direkt på hemsidan. Gå till [Mitt Riksbyggen > Mitt Boende > Styrelsen informerar](https://mitt.riksbyggen.se/boende/min-forening/styrelsen-informerar/?contentId=75148) _(Bank-ID)_.
 
-Parkeringsplatser finns med och utan motorvärmare, du kan läsa manualen [här](assets/motorvarmare-v62).
+Parkeringsplatser finns med och utan motorvärmare, du kan läsa manualen [här](assets/motorvarmare-v62.pdf).
 
 Om du önskar säga upp en parkeringsplats gäller samma kontaktvägar som när du ställde dig i kö. Du får alltid en skriftlig bekräftelse på din uppsägning i din postlåda.
 
