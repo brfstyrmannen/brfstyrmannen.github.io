@@ -6,3 +6,12 @@ lang: sv-SE
 description: Information för boende, medlemmar och mäklare i Brf Styrmannen på Brynäs i Gävle.
 
 color_scheme: brf
+
+# Just the Docs 0.12 still uses Sass APIs deprecated by Dart Sass.
+# Ignore deprecated functions in theme dependencies and @import in its entry points.
+# Remove these settings once the theme has migrated to the Sass module system.
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+
