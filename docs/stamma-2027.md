@@ -4,6 +4,8 @@
 #layout: home
 #---
 
+[comment]: <> (TODO Lägg tillbaka sidan och byt till nya dokument när det är dags för nästa stämma)
+
 # Föreningsstämma 2027
 
 Här finns alla dokument inför föreningsstämman 2027.

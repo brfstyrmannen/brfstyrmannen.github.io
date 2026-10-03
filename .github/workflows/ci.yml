@@ -28,6 +28,6 @@ jobs:
         uses: actions/setup-node@v7
         with:
           node-version: '22'
-      # Lägg tillbaka för att kontrollera trasiga länkar.
+      # Lägg tillbaka för att kontrollera trasiga länkar. Se även i pages.yml.
       #- name: Check local links
       #  run: node ../scripts/check-links.js
