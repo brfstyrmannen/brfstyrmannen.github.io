@@ -14,11 +14,7 @@ Som bostadsrättshavare ansvarar du för att underhålla din bostad. Du kan gör
 
 Om du planerar en renovering skicka e-post till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se) eller lämna en lapp i röda postlådan på Styrmansgatan 10 (du kommer in med din tagg). Du beskriver däri vad du ska göra, bifoga gärna ritningar.  
 
-Tänk på att vara ute i god tid!  
-
-Styrelsen sammanträder ca en gång per månad. Ibland vill styrelsen också att du lämnar in ytterligare utredning och det kan ta viss tid. Det kan vara handlingar eller intyg som du behöver hämta in från sakkunniga och som styrelsen behöver för att kunna ta ställning till ev. risker med ombyggnationen.  
-
-Du får inte påbörja din renovering förrän du har fått styrelsens tillstånd. Ett tillstånd från styrelsen måste vara skriftligt. Det är en värdehandling som du ska kunna visa upp för en köpare eller för föreningen. Ett muntligt ja från styrelsen eller från en enskild styrelseledamot räcker inte. Att du får ett skriftligt tillstånd är en säkerhet för dig och för föreningen vid eventuella fel eller tvister. Brister kan uppstå långt senare och då kan föreningen ha en ny styrelse och bostadsrätten kan ha bytt ägare flera gånger.  
+Se även [renoveringssidan](renovering) för mer information.
 
 ## Nycklar
 
@@ -42,7 +38,7 @@ Om du vill betala månadsavin med autogiro har Riksbyggen information om det hä
 
 ## Parkering
 
-För att söka parkerings-plats kontakta kö-ansvarig på [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se). Ange om du söker garage och/eller p-plats och om du behöver/önskar elstolpe.
+För att söka parkerings-plats kontakta köansvarig på [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se). Ange om du söker garage och/eller p-plats och om du behöver/önskar elstolpe.
 
 ## Förråd
 
@@ -58,7 +54,7 @@ Föreningen anordnar en städdag på våren. Då samlas vi för att städa och r
 
 ## Hemförsäkring
 
-Givetvis ska du ha en egen hemförsäkring. Föreningen har tecknat gemensamt bostadsrättstillägg för alla medlemmar. Föreningen har försäkring hos Folksam som också har ett erbjudande för våra medlemmar [https://www.folksam.se/forbund/riksbyggen](https://www.folksam.se/forbund/riksbyggen).
+Du behöver en egen hemförsäkring. Föreningen har tecknat gemensamt bostadsrättstillägg för alla medlemmar, läs mer på sidan om [försäkring](forsakring). Föreningen har försäkring hos Folksam som också har ett erbjudande för våra medlemmar [https://www.folksam.se/forbund/riksbyggen](https://www.folksam.se/forbund/riksbyggen).
 
 ## Namnskylt
 
@@ -74,7 +70,7 @@ Det är inte tillåtet att mata fåglarna i närheten av fastigheterna då reste
 
 ## Stadgar och Trivselregler
 
-Alla som bor i föreningen ska följa föreningens [stadgar](https://www.brfstyrmannen.se/stadgar) samt [trivselregler](https://www.brfstyrmannen.se/trivselregler).
+Alla som bor i föreningen ska följa föreningens [stadgar](stadgar) och [trivselregler](trivselregler).
 
 ## Mer information
 
@@ -88,4 +84,4 @@ Styrelsen Brf Styrmannen
 
 ---
 
-*Sidan senast kontrollerad och uppdaterad: 2026-02-15*
+*Sidan uppdaterad: 2026-10-01*

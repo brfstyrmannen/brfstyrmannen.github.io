@@ -78,21 +78,21 @@ Tvättstugorna är avsedda endast för boendes behov. I handeln vanligt förekom
 Korgvagnar och andra inventarier får inte avlägsnas från tvättstugan.  
 Lämna tvättstugan så som du själv önskar finna den. Rengör maskiner, torkskåp, torktumlare och golv efter tvättpassets slut. Se anslag.  
 
-Tomma tvättmedelspaket, tomma sköljmedelsförpackningar och allt annat avfall skall sorteras och lägga i soprummet.  
+Tomma tvättmedelspaket, tomma sköljmedelsförpackningar och allt annat avfall skall sorteras och läggas i soprummet.  
 
 Barn får inte vistas i tvättstugan utan tillsyn. Bokad tid skall avbokas snarast om förhinder uppkommit.  
 Grövre tvätt, till exempel mattor, filtar och grova arbetskläder får endast tvättas i grovtvättstugan i därför avsedd maskin i hus nr 14.  
-Följ de regler om städning som finns anslagna i tvättstugan. Görs inte detta skall det påtalas innan vidare åtgärda vidtages.  
+Följ de regler om städning som finns anslagna i tvättstugan. Görs inte detta skall det påtalas innan vidare åtgärder vidtages.  
 
 ## Bastu och föreningsrum
 
 Bastu i hus 8 bokas via bokningstavlorna vid tvättstugor.  
-Föreningsrum i hus 16 bokas genom styrelsen. Obs. nyckelbeställning.  
+Föreningslokalen i hus 16 kan bokas via hemsidan eller via tagläsaren utanför lokalen.
 Gym behöver inte bokas.  
 
 ## Avfall
 
-I soprummet finns uppmärkta kärl för sopsortering. Alla bostadrättsinnehavare är skyldiga att sortera sina sopor och trycka ihop kartoner. Påtala även detta för hemtjänstpersonal. Påsar för matavfall finnas att hämta i soprummet.  
+I soprummet finns uppmärkta kärl för sopsortering. Alla bostadsrättsinnehavare är skyldiga att sortera sina sopor och trycka ihop kartonger. Påtala även detta för hemtjänstpersonal. Påsar för matavfall finnas att hämta i soprummet.  
 
 Sopor får inte ställas ut på loftgångarna, trapphus eller ställas ner i källaren. Det är inte tillåtet att förvara sopor på balkongen.
 Grovsopor, byggavfall, uttjänta möbler, dörrar, badkar med mera får inte ställas i allmänna utrymmen. Bortforsling ansvarar lägenhetsinnehavaren för.
@@ -106,7 +106,7 @@ Var rädd om buskar och planteringar. Skräpa inte ner. Husdjur får inte rastas
 
 ## Garage och parkering
 
-Antalet uppställningsplatser för fordon är begränsat och räcker inte till för alla lägenhetsinnehavare. Av den anledningen är det inte tillåtet att hyra fler än en plats per hushåll, i den mån platserna räcker till. Kösystem tillämpas, kontakta parkeringsansvarig i styrelsen för mer information eller för att ställa dig i kö. [Se köregler](koregler.html).
+Antalet uppställningsplatser för fordon är begränsat och räcker inte till för alla lägenhetsinnehavare. Av den anledningen är det inte tillåtet att hyra fler än en plats per hushåll, i den mån platserna räcker till. Kösystem tillämpas, kontakta parkeringsansvarig i styrelsen för mer information eller för att ställa dig i kö. [Se köregler](koregler).
 
 Garagedörrarna skall hållas låsta. Alla fordon som står i garage och på P-plats skall vara i körbart skick.  
 
@@ -134,7 +134,7 @@ Elinstallationer skall utföras av behörig elektriker.
 
 Uthyrning i andra hand kräver styrelsens samtycke. Blankett för ansökan om andrahandsuthyrning tillhandahålls av styrelsen. Finns även att ladda ned från kundwebben. Lägenhetsinnehavaren är fullt ansvarig för bostaden under hela andrahandsuthyrningen. En avgift tas ut av föreningen från lägenhetsinnehavaren.
 
-Vid andrahandsuthyrning tappar lägenhetsinnehavaren parkerings-/garageplats och kölistan aktiveras. Vill ordinarie lägenhetsinnehavare kvarstå som sökande så hamnar man längst ned i kölistan. Undantag tillåts om uthyrning av lägenheten gäller max ett år, i vilket fall lägenhetsinnehavaren får hyra ut parkerings-/garageplatsen under perioden. [Regler för andrahandsuthyrning av parkeringsplats](koregler.html#regler-f%C3%B6r-andrahandsuthyrning) gäller då.
+Vid andrahandsuthyrning tappar lägenhetsinnehavaren parkerings-/garageplats och kölistan aktiveras. Vill ordinarie lägenhetsinnehavare kvarstå som sökande så hamnar man längst ned i kölistan. Undantag tillåts om uthyrning av lägenheten gäller max ett år, i vilket fall lägenhetsinnehavaren får hyra ut parkerings-/garageplatsen under perioden. [Regler för andrahandsuthyrning av parkeringsplats](koregler#regler-f%C3%B6r-andrahandsuthyrning) gäller då.
 
 ## Övrigt
 
@@ -166,7 +166,7 @@ Vid varje försäljning kommer föreningen att göra en besiktning av lägenhete
 ## Vart ringer jag
 
 Felanmälan fastighetsärenden: [Styrelsen (0761-18 23 18)](tel:0761-182318)  
-Felanmälan fastighetsärenden jour: [Riksbyggen (0771 – 860 860)](tel:0771–860860)  
+Felanmälan fastighetsärenden jour: [Riksbyggen (0771 – 860 860)](tel:0771860860)  
 Kö för parkering/förråd: [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se)  
 Låsöppning: [Securitas (010-470 53 00)](tel:010-4705300)  
 Störningsjour: [Securitas (010-470 53 00)](tel:010-4705300)  
@@ -174,4 +174,4 @@ Ohyra: [Anticimex (026-12 80 00)](tel:026-128000)
 
 ---
 
-*Sidan senast kontrollerad och uppdaterad: 2026-06-01*
+*Sidan uppdaterad: 2026-10-01*

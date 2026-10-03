@@ -12,6 +12,8 @@ on:
       - "main"
     paths:
       - "docs/**"
+      - "scripts/**"
+      - ".github/workflows/pages.yml"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -52,6 +54,13 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      # Lägg tillbaka för att kontrollera trasiga länkar.
+      #- name: Check local links
+      #  run: node ../scripts/check-links.js
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3

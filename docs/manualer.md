@@ -10,7 +10,7 @@ Här hittar du diverse manualer.
 
 ## Motorvärmare
 
-[Bruksanvisning Motorvärmare version 6.2](assets/motvarmare-v62.pdf)
+[Bruksanvisning Motorvärmare version 6.2](assets/motorvarmare-v62.pdf)
 
 ## Partytält
 
@@ -18,4 +18,4 @@ Här hittar du diverse manualer.
 
 ---
 
-*Sidan senast kontrollerad och uppdaterad: 2025-07-06*
+*Sidan uppdaterad: 2026-10-01*

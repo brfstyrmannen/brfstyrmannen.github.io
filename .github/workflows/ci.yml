@@ -24,3 +24,10 @@ jobs:
           working-directory: '${{ github.workspace }}/docs'
       - name: Build with Jekyll
         run: bundle exec jekyll build
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      # Lägg tillbaka för att kontrollera trasiga länkar.
+      #- name: Check local links
+      #  run: node ../scripts/check-links.js

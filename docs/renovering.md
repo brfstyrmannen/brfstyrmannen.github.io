@@ -6,18 +6,21 @@ layout: home
 
 # Renovering
 
-Här följer lite allmänna regler när det kommer till renoveringar.
+Du kan göra mindre ändringar, till exempel måla och tapetsera, utan styrelsens tillstånd. För åtgärder som kräver tillstånd enligt [stadgarna, § 36](stadgar#-36-ändring-av-lägenhet) ska du ha ett skriftligt godkännande innan arbetet påbörjas. Kontakta styrelsen om du är osäker.
 
 ## Innan start
 
-Innan start skall planerna presenteras för styrelsen. Där bör det ingå information om  
+För arbeten som kräver tillstånd ska planerna presenteras för styrelsen i god tid. Där bör det ingå information om
 - vilka legitimerade hantverkare som planeras att användas.  
 - planerad start och sluttid.  
 
-Tänk på att skicka in en förfrågan om renovering till styrelsen i god tid inför renoveringen. Renoveringen får inte startas innan styrelsen lämnat godkännande. Styrelsen sammanträder 1 gång per månad.  
+Tänk på att vara ute i god tid! Tillståndspliktiga arbeten får inte startas innan styrelsen lämnat skriftligt godkännande.
 
-Hantverkartiden är mellan 08.00 – 19.00 vardagar i övrigt gäller den normala tiden. Annonseringen för info till boende rekommenderas.  
+Styrelsen sammanträder ca en gång per månad. Ibland vill styrelsen också att du lämnar in ytterligare utredning och det kan ta viss tid. Det kan vara handlingar eller intyg som du behöver hämta in från sakkunniga och som styrelsen behöver för att kunna ta ställning till ev. risker med ombyggnationen.
 
+Ett tillstånd från styrelsen måste vara skriftligt. Det är en värdehandling som du ska kunna visa upp för en köpare eller för föreningen. Ett muntligt ja från styrelsen eller från en enskild styrelseledamot räcker inte. Att du får ett skriftligt tillstånd är en säkerhet för dig och för föreningen vid eventuella fel eller tvister. Brister kan uppstå långt senare och då kan föreningen ha en ny styrelse och bostadsrätten kan ha bytt ägare flera gånger.
+
+Hantverkartiden är mellan 07:00 – 20:00 vardagar och 10:00 – 18:00 på helger. Under all övrig tid är det inte tillåtet att utföra störande arbeten i bostaden, se [trivselreglerna](trivselregler#arbeten-i-lägenhet). Informera gärna grannarna i förväg.
 
 ## Bjälklag
 
@@ -37,4 +40,4 @@ Reglerna om ventilation är långa så de har fått sin [egen sida här](ventila
 
 ---
 
-*Sidan senast kontrollerad och uppdaterad: 2025-07-10*
+*Sidan uppdaterad: 2026-10-01*

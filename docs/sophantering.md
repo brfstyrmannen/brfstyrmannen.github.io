@@ -8,9 +8,7 @@ layout: home
 
 Sophuset hittar du vid parkeringen, vid hus nr 10, mot Tredje Tvärgatan.
 
-I sophuset finns kärl för sortering.  
-7 stora kärl för hushållssopor, 3 stora kärl för plastförpackningar (mjuk och hård plast i samma kärl), 4 kärl för glas (2 för ofärgat och 2 för färgat), 1 kärl för metallförpackningar, 5 stora kärl för pappersförpackningar, 1 stort kärl för tidningar, samt 3 bruna kärl för matavfall.  
-Det finns också mindre kärl för lampor, batterier, samt elskrot.  
+I sophuset finns kärl för hushållssopor, matavfall, tidningar samt förpackningar av plast, glas, metall och papper. Mjuk och hård plast läggs i samma kärl. Det finns också mindre kärl för lampor, batterier och mindre elskrot.
 
 ## Hushållssopor
 
@@ -22,11 +20,11 @@ Extra påsar till kompost finner du i sophuset.
 
 ## Pappersinsamling
 
-I dessa ska endast följande slängas; dags- och veckotidningar, magasin, reklamblad, kataloger (postorder, telefon, resekataloger och liknande), broschyrer och skriv/ritpapper. Enligt uppgift från FTI (Förpacknings- & Tidningsinsamlingen) ska inte kuvert, wellpapp, kartong eller pappers- eller plastpåsar slängas här.
+Här ska endast dags- och veckotidningar, magasin, reklamblad, kataloger, broschyrer och skriv- eller ritpapper slängas. Kuvert, wellpapp, kartong och pappers- eller plastpåsar hör inte hemma i tidningskärlet.
 
 ## Glasinsamling
 
-Det finns 2 kärl för insamling för returglas, 1 kärl för färgat och 1 kärl för ofärgat glas.
+Lägg färgat och ofärgat förpackningsglas i respektive kärl.
 
 ## Kartong och wellpapp
 
@@ -58,4 +56,4 @@ Hanteras inte av föreningen. Se kommunens hemsida: [https://gastrikeatervinnare
 
 ---
 
-*Sidan senast kontrollerad och uppdaterad: 2025-08-04*
+*Sidan uppdaterad: 2026-10-01*

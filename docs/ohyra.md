@@ -6,12 +6,12 @@ layout: home
 
 # Ohyra
 
-Har du fått ohyra I din lägenhet?
+Har du fått ohyra i din lägenhet?
 
-I länken nedan kan du läsa information från Bostadsrätterna vad som gäller om du får ohyra I din lägenhet. Gå gärna in och läs vad du som medlem har för ansvar och vad som är föreningens ansvar.
+Kontakta styrelsen så snart som möjligt så att ohyran inte sprids till andra lägenheter. Du når styrelsen på [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se) eller [0761-18 23 18](tel:0761-182318).
 
-[https://www.bostadsratterna.se/allt-om-bostadsratt/artiklar/drabbade-av-ohyra-agera-snabbt](https://www.bostadsratterna.se/allt-om-bostadsratt/artiklar/drabbade-av-ohyra-agera-snabbt)
+För frågor om sanering kan du kontakta [Anticimex på 026-12 80 00](tel:026-128000). Se även [föreningens stadgar](stadgar) om ansvar vid ohyra och [juridiskt faktablad](https://www.riksbyggen.se/4a4934/globalassets/1-riksbyggen/bostad/juridiska-faktablad/ohyra.pdf) från Riksbyggen.
 
 ---
 
-*Sidan senast kontrollerad och uppdaterad: 2024-12-26*
+*Sidan uppdaterad: 2026-10-01*

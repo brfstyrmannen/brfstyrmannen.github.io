@@ -10,10 +10,10 @@ Om du har gjort ett eget utlägg som är godkänt att bekostas av föreningen sk
 
 Notera att det här inte gäller uttag ur inre fonden, för det finns det en annan blankett som du hittar på [Förvaltning > Inre fond](/inre-fond).
 
-Om du saknar skrivare skicka ett mail till [info@brfstyrmannen.se](info@brfstyrmannen.se) med ditt namn och att du vill få ersättning för ett utlägg så ser vi till så att en blank kopia hamnar i din postlåda.
+Om du saknar skrivare skicka ett mail till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se) med ditt namn och att du vill få ersättning för ett utlägg så ser vi till så att en blank kopia hamnar i din postlåda.
 
-[Ladda ned blanketten här](/assets/utlagg.pdf){:target="_blank"}
+[Ladda ned blanketten här](assets/utlagg.pdf){:target="_blank"}
 
 ---
 
-*Sidan senast kontrollerad och uppdaterad: 2024-11-19*
+*Sidan uppdaterad: 2026-10-01*

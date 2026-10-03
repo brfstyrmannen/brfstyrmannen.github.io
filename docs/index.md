@@ -4,20 +4,18 @@ nav_order: 1
 layout: home
 ---
 
-Som boende eller nyinflyttad i Brf Styrmannen kommer du så småningom här hitta allt du behöver veta om ditt boende och om föreningen.
+Välkommen till Brf Styrmannen! Vi är en bostadsrättsförening på Brynäs i Gävle. Här hittar du information om föreningen och ditt boende.
 
-För att anmäla ett fel, se [Felanmälan](/felanmalan).
+## Vanliga ärenden
 
-Eventuella felaktigheter på hemsidan kan förekomma. Om du är osäker, kontakta styrelsen.
+- [Felanmälan](felanmalan) – kontaktvägar vid akuta och övriga fel.
+- [Välkommen som ny medlem](välkommen) – information inför inflyttning.
+- [Boka tvättstuga](tvattstugor) och [andra gemensamma utrymmen](byggnader).
+- [Parkering, garage och förråd](p-plats-garage-forrad).
+- [Stadgar](stadgar) och [trivselregler](trivselregler).
 
-Om du saknar information skicka gärna ett mail till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se).
-
-Om du vill fråga något skicka gärna ett mail till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se).
-
-Om du har synpunkter på hemsidan och/eller föreningen skicka gärna ett mail till [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se).
-
-Visste du att föreningen har mailadressen [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se)?
+Har du frågor, synpunkter eller hittar du något som inte stämmer? [Kontakta styrelsen](kontakt) eller mejla [info@brfstyrmannen.se](mailto:info@brfstyrmannen.se).
 
 ---
 
-*Sidan senast kontrollerad och uppdaterad: 2026-01-26*
+*Sidan uppdaterad: 2026-10-01*
