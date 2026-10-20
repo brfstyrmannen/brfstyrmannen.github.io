@@ -11,7 +11,7 @@ Här kan du som fastighetsmäklare hitta grundläggande information för Brf Sty
 
 **Äkta förening:** Föreningen är klassad som en äkta bostadsrättsförening  
 **Organisationsnummer:** 785000-3539  
-**Fastighetsbeteckning:** Brynäs 96:6 samt Brynäs 96:7  
+**Fastighetsbeteckning:** Gävle Brynäs 96:6 samt Gävle Brynäs 96:7  
 **Byggnadsår:** 1976, Föreningen äger fastighetens mark.  
 **Aktuell skuld fastighetslån:** Ca 14 Mkr  
 **Totalyta:** 10 928 kvm (9 664 kvm bostadsarea)  
