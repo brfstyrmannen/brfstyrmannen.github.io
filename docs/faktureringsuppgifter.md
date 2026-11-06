@@ -6,7 +6,7 @@ layout: home
 
 # Faktureringsuppgifter
 
-Har du en faktura till föreningen? Här nedan hittar du våra fakturerings-uppgifter. Skicka gärna fakturan (i PDF format) digitalt till [riksbyggen.mailinvoice@postenscanning.se](mailto:riksbyggen.mailinvoice@postenscanning.se).  
+Har du en faktura till föreningen? Här nedan hittar du våra faktureringsuppgifter. Skicka gärna fakturan (i PDF format) digitalt till [riksbyggen.mailinvoice@postenscanning.se](mailto:riksbyggen.mailinvoice@postenscanning.se).  
 
 **Faktureringsadress:**
 
@@ -25,8 +25,8 @@ SE785000353901
 
 **Vår referens:**
 
-Ange *alltid* namn på din kontaktperson hos oss så blir det enklare för oss att skicka vidare betalningen i ekonomi-systemet.
+Ange *alltid* namn på din kontaktperson hos oss så blir det enklare för oss att skicka vidare betalningen i ekonomisystemet.
 
 ---
 
-*Sidan senast kontrollerad och uppdaterad: 2025-02-24*
+*Sidan senast kontrollerad och uppdaterad: 2026-11-06*
